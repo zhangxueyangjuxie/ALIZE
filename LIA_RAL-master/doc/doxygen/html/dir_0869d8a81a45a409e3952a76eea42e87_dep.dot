@@ -1,0 +1,13 @@
+digraph "LIA_Utils/SequenceExtractor/include" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_a60afe3d20a847071eaa37bd9a8acd78 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="SequenceExtractor" fontname="Helvetica", fontsize="10", URL="dir_a60afe3d20a847071eaa37bd9a8acd78.html"]
+  dir_0869d8a81a45a409e3952a76eea42e87 [shape=box, label="include", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_0869d8a81a45a409e3952a76eea42e87.html"];
+  }
+  dir_b4745ca01c4ca43cb0688e76731d3c94 [shape=box label="BNGram" fillcolor="white" style="filled" color="red" URL="dir_b4745ca01c4ca43cb0688e76731d3c94.html"];
+  dir_9cbce39a1c55326e924543e2b48f4f2d [shape=box label="LabelNGram" fillcolor="white" style="filled" color="red" URL="dir_9cbce39a1c55326e924543e2b48f4f2d.html"];
+  dir_0869d8a81a45a409e3952a76eea42e87->dir_b4745ca01c4ca43cb0688e76731d3c94 [headlabel="1", labeldistance=1.5 headhref="dir_000156_000114.html"];
+  dir_0869d8a81a45a409e3952a76eea42e87->dir_9cbce39a1c55326e924543e2b48f4f2d [headlabel="1", labeldistance=1.5 headhref="dir_000156_000132.html"];
+}

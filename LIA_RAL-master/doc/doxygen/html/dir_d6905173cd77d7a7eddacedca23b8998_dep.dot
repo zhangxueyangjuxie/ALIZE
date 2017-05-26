@@ -1,0 +1,14 @@
+digraph "LIA_SpkSeg/Segmentation/src" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_f33fabf15cdfe902d0a892de76a9ca4f {
+    graph [ bgcolor="#ddddee", pencolor="black", label="Segmentation" fontname="Helvetica", fontsize="10", URL="dir_f33fabf15cdfe902d0a892de76a9ca4f.html"]
+  dir_d6905173cd77d7a7eddacedca23b8998 [shape=box, label="src", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_d6905173cd77d7a7eddacedca23b8998.html"];
+  }
+  dir_7b9f40c7474acebf25e66f966c5b9c6a [shape=box label="LIA_SpkTools" fillcolor="white" style="filled" color="red" URL="dir_7b9f40c7474acebf25e66f966c5b9c6a.html"];
+  dir_49518ed7cb10283d4f7c42704e569012 [shape=box label="include" URL="dir_49518ed7cb10283d4f7c42704e569012.html"];
+  dir_d6905173cd77d7a7eddacedca23b8998->dir_7b9f40c7474acebf25e66f966c5b9c6a [headlabel="2", labeldistance=1.5 headhref="dir_000106_000110.html"];
+  dir_d6905173cd77d7a7eddacedca23b8998->dir_49518ed7cb10283d4f7c42704e569012 [headlabel="2", labeldistance=1.5 headhref="dir_000106_000105.html"];
+  dir_49518ed7cb10283d4f7c42704e569012->dir_7b9f40c7474acebf25e66f966c5b9c6a [headlabel="1", labeldistance=1.5 headhref="dir_000105_000110.html"];
+}

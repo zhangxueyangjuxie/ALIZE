@@ -1,0 +1,9 @@
+digraph "LIA_Utils/PolyExp/include" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_80d5b7aa2c7fb7a0d10071fbf57494ae {
+    graph [ bgcolor="#ddddee", pencolor="black", label="PolyExp" fontname="Helvetica", fontsize="10", URL="dir_80d5b7aa2c7fb7a0d10071fbf57494ae.html"]
+  dir_9dea958fcc80e5c7f982eea7ce14ba1e [shape=box, label="include", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_9dea958fcc80e5c7f982eea7ce14ba1e.html"];
+  }
+}

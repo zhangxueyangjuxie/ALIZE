@@ -1,0 +1,301 @@
+Begin world model training
+(SegTools) >> Proceeding label file reading for [xaaf] <<
+(SegTools) >> Proceeding label file reading for [xaag] <<
+(SegTools) >> Proceeding label file reading for [xaao] <<
+(SegTools) >> Proceeding label file reading for [xabr] <<
+(SegTools) >> Proceeding label file reading for [xabu] <<
+(SegTools) >> Proceeding label file reading for [xaca] <<
+(SegTools) >> Proceeding label file reading for [xacf] <<
+(SegTools) >> Proceeding label file reading for [xacs] <<
+(SegTools) >> Proceeding label file reading for [xacv] <<
+(SegTools) >> Proceeding label file reading for [xacz] <<
+(SegTools) >> Proceeding label file reading for [xado] <<
+(SegTools) >> Proceeding label file reading for [xadz] <<
+(SegTools) >> Proceeding label file reading for [xaei] <<
+(SegTools) >> Proceeding label file reading for [xaek] <<
+(SegTools) >> Proceeding label file reading for [xaen] <<
+(SegTools) >> Proceeding label file reading for [xaeo] <<
+(SegTools) >> Proceeding label file reading for [xaep] <<
+(SegTools) >> Proceeding label file reading for [xaez] <<
+(SegTools) >> Proceeding label file reading for [xafa] <<
+(SegTools) >> Proceeding label file reading for [xafc] <<
+(SegTools) >> Proceeding label file reading for [xafe] <<
+(SegTools) >> Proceeding label file reading for [xafn] <<
+(SegTools) >> Proceeding label file reading for [xafr] <<
+(SegTools) >> Proceeding label file reading for [xafv] <<
+(SegTools) >> Proceeding label file reading for [xaga] <<
+(SegTools) >> Proceeding label file reading for [xagu] <<
+(SegTools) >> Proceeding label file reading for [xagx] <<
+(SegTools) >> Proceeding label file reading for [xaha] <<
+(SegTools) >> Proceeding label file reading for [xahb] <<
+(SegTools) >> Proceeding label file reading for [xahj] <<
+(SegTools) >> Proceeding label file reading for [xahk] <<
+(SegTools) >> Proceeding label file reading for [xahq] <<
+(SegTools) >> Proceeding label file reading for [xahs] <<
+(SegTools) >> Proceeding label file reading for [xaht] <<
+(SegTools) >> Proceeding label file reading for [xahu] <<
+(SegTools) >> Proceeding label file reading for [xahw] <<
+(SegTools) >> Proceeding label file reading for [xaig] <<
+(SegTools) >> Proceeding label file reading for [xaiu] <<
+(SegTools) >> Proceeding label file reading for [xaiv] <<
+(SegTools) >> Proceeding label file reading for [xajc] <<
+(SegTools) >> Proceeding label file reading for [xajg] <<
+(SegTools) >> Proceeding label file reading for [xajo] <<
+(SegTools) >> Proceeding label file reading for [xajx] <<
+(SegTools) >> Proceeding label file reading for [xakh] <<
+(SegTools) >> Proceeding label file reading for [xaki] <<
+(SegTools) >> Proceeding label file reading for [xakm] <<
+(SegTools) >> Proceeding label file reading for [xakn] <<
+(SegTools) >> Proceeding label file reading for [xakp] <<
+(SegTools) >> Proceeding label file reading for [xakw] <<
+(SegTools) >> Proceeding label file reading for [xakz] <<
+(SegTools) >> Proceeding label file reading for [xalf] <<
+(SegTools) >> Proceeding label file reading for [xali] <<
+(SegTools) >> Proceeding label file reading for [xalt] <<
+(SegTools) >> Proceeding label file reading for [xalu] <<
+(SegTools) >> Proceeding label file reading for [xalx] <<
+(SegTools) >> Proceeding label file reading for [xaly] <<
+(SegTools) >> Proceeding label file reading for [xamw] <<
+(SegTools) >> Proceeding label file reading for [xanp] <<
+(SegTools) >> Proceeding label file reading for [xanw] <<
+(SegTools) >> Proceeding label file reading for [xanx] <<
+Warning File[xaao], Truncate Segment begin:30980 length:15 file size:30994 new length:14
+Warning File[xacv], Truncate Segment begin:10135 length:41 file size:10175 new length:40
+Warning File[xacz], Truncate Segment begin:6322 length:21 file size:6342 new length:20
+Warning File[xadz], Truncate Segment begin:11109 length:46 file size:11154 new length:45
+Warning File[xaek], Truncate Segment begin:30970 length:25 file size:30994 new length:24
+Warning File[xafe], Truncate Segment begin:30370 length:625 file size:30994 new length:624
+Warning File[xafr], Truncate Segment begin:29701 length:1294 file size:30994 new length:1293
+Warning File[xagu], Truncate Segment begin:30992 length:3 file size:30994 new length:2
+Warning File[xagx], Truncate Segment begin:30987 length:8 file size:30994 new length:7
+Warning File[xahj], Truncate Segment begin:30988 length:7 file size:30994 new length:6
+Warning File[xahk], Truncate Segment begin:30944 length:51 file size:30994 new length:50
+Warning File[xaht], Truncate Segment begin:6310 length:5 file size:6314 new length:4
+Warning File[xahw], Truncate Segment begin:10097 length:1058 file size:11154 new length:1057
+Warning File[xaiv], Truncate Segment begin:30993 length:2 file size:30994 new length:1
+Warning File[xajg], Truncate Segment begin:5983 length:2373 file size:8355 new length:2372
+Warning File[xajo], Truncate Segment begin:7207 length:139 file size:7345 new length:138
+Warning File[xakp], Truncate Segment begin:30945 length:50 file size:30994 new length:49
+Warning File[xali], Truncate Segment begin:30912 length:83 file size:30994 new length:82
+Warning File[xanp], Truncate Segment begin:30956 length:39 file size:30994 new length:38
+Stream mode, nb Stream=1
+Compute global mean and cov
+global mean and cov of training data, number of frame= [543113]
+mean[0=-2.99165e-11]	cov[1]
+mean[1=-3.11645e-11]	cov[1]
+mean[2=2.76345e-11]	cov[1]
+mean[3=-4.16889e-11]	cov[1]
+mean[4=5.028e-11]	cov[1]
+mean[5=-1.49966e-11]	cov[1]
+mean[6=2.46497e-11]	cov[1]
+mean[7=-1.63458e-11]	cov[1]
+mean[8=-9.02679e-12]	cov[1]
+mean[9=-1.33089e-12]	cov[1]
+mean[10=1.46105e-11]	cov[1]
+mean[11=4.6922e-11]	cov[1]
+mean[12=2.02971e-12]	cov[1]
+mean[13=4.23683e-11]	cov[1]
+mean[14=-3.92005e-12]	cov[1]
+mean[15=-2.71789e-11]	cov[1]
+mean[16=-3.28765e-12]	cov[1]
+mean[17=-6.11338e-11]	cov[1]
+mean[18=-2.19343e-11]	cov[1]
+mean[19=4.23099e-11]	cov[1]
+mean[20=-8.97335e-11]	cov[1]
+mean[21=4.2299e-11]	cov[1]
+mean[22=2.36538e-11]	cov[1]
+mean[23=-4.05505e-11]	cov[1]
+mean[24=4.35858e-11]	cov[1]
+mean[25=-5.30938e-12]	cov[1]
+mean[26=-2.84751e-11]	cov[1]
+mean[27=-6.20308e-11]	cov[1]
+mean[28=1.68943e-11]	cov[1]
+mean[29=-6.36151e-11]	cov[1]
+mean[30=-1.58347e-12]	cov[1]
+mean[31=5.42909e-11]	cov[1]
+mean[32=2.68042e-11]	cov[1]
+mean[33=6.06645e-11]	cov[1]
+mean[34=-7.74994e-11]	cov[1]
+mean[35=8.69774e-11]	cov[1]
+mean[36=-3.36625e-11]	cov[1]
+mean[37=-5.35784e-11]	cov[1]
+mean[38=1.57847e-11]	cov[1]
+mean[39=4.22538e-12]	cov[1]
+mean[40=1.00108e-11]	cov[1]
+mean[41=5.18354e-11]	cov[1]
+mean[42=3.4847e-11]	cov[1]
+mean[43=2.02884e-11]	cov[1]
+mean[44=4.14869e-11]	cov[1]
+mean[45=5.49217e-12]	cov[1]
+mean[46=4.92156e-11]	cov[1]
+mean[47=8.36619e-13]	cov[1]
+mean[48=6.39735e-11]	cov[1]
+mean[49=2.74703e-12]	cov[1]
+World model init from scratch
+begin of mixtureInit
+baggedMinimalLength[3] MaximalLength[10]
+mixtureInit, total frames with stream weighting[543113] total frame to select by component[100]
+bagged proba init ok
+Init Stream[0] Bagged by comp=0.000184124 It[0]
+Bagged segments, Initial frames[543113] Selected frames[3147] % selected[0.579437]
+Initialize model
+Nb Frame for mean[0] init =[101]
+Nb Frame for mean[1] init =[100]
+Nb Frame for mean[2] init =[109]
+Nb Frame for mean[3] init =[112]
+Nb Frame for mean[4] init =[88]
+Nb Frame for mean[5] init =[128]
+Nb Frame for mean[6] init =[100]
+Nb Frame for mean[7] init =[95]
+Nb Frame for mean[8] init =[119]
+Nb Frame for mean[9] init =[88]
+Nb Frame for mean[10] init =[112]
+Nb Frame for mean[11] init =[85]
+Nb Frame for mean[12] init =[112]
+Nb Frame for mean[13] init =[98]
+Nb Frame for mean[14] init =[60]
+Nb Frame for mean[15] init =[117]
+Nb Frame for mean[16] init =[155]
+Nb Frame for mean[17] init =[87]
+Nb Frame for mean[18] init =[102]
+Nb Frame for mean[19] init =[120]
+Nb Frame for mean[20] init =[120]
+Nb Frame for mean[21] init =[110]
+Nb Frame for mean[22] init =[142]
+Nb Frame for mean[23] init =[102]
+Nb Frame for mean[24] init =[51]
+Nb Frame for mean[25] init =[98]
+Nb Frame for mean[26] init =[69]
+Nb Frame for mean[27] init =[54]
+Nb Frame for mean[28] init =[53]
+Nb Frame for mean[29] init =[106]
+Nb Frame for mean[30] init =[83]
+Nb Frame for mean[31] init =[71]
+Training parameters 
+nb training iterations:5
+init variance floor:0.01 final floor:0.01
+init variance ceil:10 final ceil:10
+normaliseModel on
+baggedMinimalLength[3] MaximalLength[10]
+LLK Initial model= -70.7185
+Train it[0], Variance floor[0.01] ceiling[10]
+total frames with stream weighting[543113] total frame to select [162933]
+Stream[0] Bagged=0.3
+Bagged segments, Initial frames[543113] Selected frames[163568] % selected[30.1168]
+(AccumulateStatEM) Threaded version of EM with 4 threads
+(AccumulateStatEM) Creating thread n[0]
+(AccumulateStatEM) Creating thread n[1]
+(AccumulateStatEM) Creating thread n[2]
+(AccumulateStatEM) Creating thread n[3]
+(AccumulateStatEM) Computing on thread
+Thread:2 broke
+(AccumulateStatEM) Completed join with thread [0] status[0]
+(AccumulateStatEM) Completed join with thread [1] status[0]
+(AccumulateStatEM) Completed join with thread [2] status[0]
+(AccumulateStatEM) Completed join with thread [3] status[0]
+(AccumulateStatEM) Fuse EM Accs 
+Number of frames treated by thread [0]=44963
+Number of frames treated by thread [1]=30995
+Number of frames treated by thread [2]=44562
+Number of frames treated by thread [3]=43048
+Total Number of frames in threads: 163568
+ total variance flooring = 0 ceiling = 0
+Partial Train it[0] (take care, it corresponds to the previous it,0 means init likelihood) =-70.7532 Nb Frames=163568
+Train it[1], Variance floor[0.01] ceiling[10]
+total frames with stream weighting[543113] total frame to select [162933]
+Stream[0] Bagged=0.3
+Bagged segments, Initial frames[543113] Selected frames[161861] % selected[29.8025]
+(AccumulateStatEM) Threaded version of EM with 4 threads
+(AccumulateStatEM) Creating thread n[0]
+(AccumulateStatEM) Creating thread n[1]
+(AccumulateStatEM) Creating thread n[2]
+(AccumulateStatEM) Creating thread n[3]
+(AccumulateStatEM) Computing on thread
+Thread:1 broke
+(AccumulateStatEM) Completed join with thread [0] status[0]
+(AccumulateStatEM) Completed join with thread [1] status[0]
+(AccumulateStatEM) Completed join with thread [2] status[0]
+(AccumulateStatEM) Completed join with thread [3] status[0]
+(AccumulateStatEM) Fuse EM Accs 
+Number of frames treated by thread [0]=39606
+Number of frames treated by thread [1]=41131
+Number of frames treated by thread [2]=40430
+Number of frames treated by thread [3]=40694
+Total Number of frames in threads: 161861
+ total variance flooring = 0 ceiling = 0
+Partial Train it[1] (take care, it corresponds to the previous it,0 means init likelihood) =-69.871 Nb Frames=161861
+Train it[2], Variance floor[0.01] ceiling[10]
+total frames with stream weighting[543113] total frame to select [162933]
+Stream[0] Bagged=0.3
+Bagged segments, Initial frames[543113] Selected frames[162011] % selected[29.8301]
+(AccumulateStatEM) Threaded version of EM with 4 threads
+(AccumulateStatEM) Creating thread n[0]
+(AccumulateStatEM) Creating thread n[1]
+(AccumulateStatEM) Creating thread n[2]
+(AccumulateStatEM) Creating thread n[3]
+(AccumulateStatEM) Computing on thread
+Thread:1 broke
+Thread:3 broke
+(AccumulateStatEM) Completed join with thread [0] status[0]
+(AccumulateStatEM) Completed join with thread [1] status[0]
+(AccumulateStatEM) Completed join with thread [2] status[0]
+(AccumulateStatEM) Completed join with thread [3] status[0]
+(AccumulateStatEM) Fuse EM Accs 
+Number of frames treated by thread [0]=40925
+Number of frames treated by thread [1]=38697
+Number of frames treated by thread [2]=41551
+Number of frames treated by thread [3]=40838
+Total Number of frames in threads: 162011
+ total variance flooring = 0 ceiling = 0
+Partial Train it[2] (take care, it corresponds to the previous it,0 means init likelihood) =-68.899 Nb Frames=162011
+Train it[3], Variance floor[0.01] ceiling[10]
+total frames with stream weighting[543113] total frame to select [162933]
+Stream[0] Bagged=0.3
+Bagged segments, Initial frames[543113] Selected frames[162036] % selected[29.8347]
+(AccumulateStatEM) Threaded version of EM with 4 threads
+(AccumulateStatEM) Creating thread n[0]
+(AccumulateStatEM) Creating thread n[1]
+(AccumulateStatEM) Creating thread n[2]
+(AccumulateStatEM) Creating thread n[3]
+(AccumulateStatEM) Computing on thread
+Thread:3 broke
+Thread:0 broke
+(AccumulateStatEM) Completed join with thread [0] status[0]
+Thread:2 broke
+Thread:1 broke
+(AccumulateStatEM) Completed join with thread [1] status[0]
+(AccumulateStatEM) Completed join with thread [2] status[0]
+(AccumulateStatEM) Completed join with thread [3] status[0]
+(AccumulateStatEM) Fuse EM Accs 
+Number of frames treated by thread [0]=40806
+Number of frames treated by thread [1]=40327
+Number of frames treated by thread [2]=40402
+Number of frames treated by thread [3]=40501
+Total Number of frames in threads: 162036
+ total variance flooring = 0 ceiling = 0
+Partial Train it[3] (take care, it corresponds to the previous it,0 means init likelihood) =-68.1408 Nb Frames=162036
+Train it[4], Variance floor[0.01] ceiling[10]
+total frames with stream weighting[543113] total frame to select [162933]
+Stream[0] Bagged=0.3
+Bagged segments, Initial frames[543113] Selected frames[162963] % selected[30.0054]
+(AccumulateStatEM) Threaded version of EM with 4 threads
+(AccumulateStatEM) Creating thread n[0]
+(AccumulateStatEM) Creating thread n[1]
+(AccumulateStatEM) Creating thread n[2]
+(AccumulateStatEM) Creating thread n[3]
+(AccumulateStatEM) Computing on thread
+Thread:3 broke
+(AccumulateStatEM) Completed join with thread [0] status[0]
+(AccumulateStatEM) Completed join with thread [1] status[0]
+(AccumulateStatEM) Completed join with thread [2] status[0]
+(AccumulateStatEM) Completed join with thread [3] status[0]
+(AccumulateStatEM) Fuse EM Accs 
+Number of frames treated by thread [0]=40512
+Number of frames treated by thread [1]=40121
+Number of frames treated by thread [2]=40485
+Number of frames treated by thread [3]=41845
+Total Number of frames in threads: 162963
+ total variance flooring = 0 ceiling = 0
+Partial Train it[4] (take care, it corresponds to the previous it,0 means init likelihood) =-67.8679 Nb Frames=162963
+ Final ll world = -67.7227
+Save world model [world]

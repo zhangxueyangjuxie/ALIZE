@@ -1,0 +1,13 @@
+digraph "Eigen::internal::solve_retval_base&lt; DecompositionType, Rhs &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="Eigen::internal::solve\l_retval_base\< DecompositionType,\l Rhs \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="Eigen::ReturnByValue\l\< solve_retval_base\<\l _DecompositionType, Rhs \> \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classEigen_1_1ReturnByValue.html"];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="internal::dense_xpr\l_base::type\< ReturnByValue\l\< solve_retval_base\< _Decomposition\lType, Rhs \> \> \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node4 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_dec" ,fontname="Helvetica"];
+  Node4 [label="DecompositionType",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+}

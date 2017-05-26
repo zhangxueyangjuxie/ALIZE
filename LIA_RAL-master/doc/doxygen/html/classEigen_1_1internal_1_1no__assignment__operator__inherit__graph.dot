@@ -1,0 +1,33 @@
+digraph "Eigen::internal::no_assignment_operator"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="Eigen::internal::no\l_assignment_operator",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="firebrick4",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="Eigen::CoeffBasedProduct\l\< LhsNested, RhsNested,\l NestingFlags \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classEigen_1_1CoeffBasedProduct.html"];
+  Node1 -> Node3 [dir="back",color="firebrick4",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="Eigen::CwiseBinaryOp\l\< BinaryOp, Lhs, Rhs \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classEigen_1_1CwiseBinaryOp.html",tooltip="Generic expression where a coefficient-wise binary operator is applied to two expressions. "];
+  Node1 -> Node4 [dir="back",color="firebrick4",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="Eigen::CwiseNullaryOp\l\< NullaryOp, PlainObjectType \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classEigen_1_1CwiseNullaryOp.html",tooltip="Generic expression of a matrix where all coefficients are defined by a functor. "];
+  Node1 -> Node5 [dir="back",color="firebrick4",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="Eigen::CwiseUnaryOp\l\< UnaryOp, XprType \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classEigen_1_1CwiseUnaryOp.html",tooltip="Generic expression where a coefficient-wise unary operator is applied to an expression. "];
+  Node1 -> Node6 [dir="back",color="firebrick4",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="Eigen::CwiseUnaryView\l\< ViewOp, MatrixType \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classEigen_1_1CwiseUnaryView.html",tooltip="Generic lvalue expression of a coefficient-wise unary operator of a matrix or a vector. "];
+  Node1 -> Node7 [dir="back",color="firebrick4",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="Eigen::DiagonalProduct\l\< MatrixType, DiagonalType,\l ProductOrder \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classEigen_1_1DiagonalProduct.html"];
+  Node1 -> Node8 [dir="back",color="firebrick4",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="Eigen::DiagonalWrapper\l\< _DiagonalVectorType \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classEigen_1_1DiagonalWrapper.html",tooltip="Expression of a diagonal matrix. "];
+  Node1 -> Node9 [dir="back",color="firebrick4",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="Eigen::GeneralProduct\l\< Lhs, Rhs, InnerProduct \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classEigen_1_1GeneralProduct_3_01Lhs_00_01Rhs_00_01InnerProduct_01_4.html"];
+  Node1 -> Node10 [dir="back",color="firebrick4",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="Eigen::PartialReduxExpr\l\< MatrixType, BinaryOp,\l Direction \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classEigen_1_1PartialReduxExpr.html",tooltip="Generic expression of a partially reduxed matrix. "];
+  Node1 -> Node11 [dir="back",color="firebrick4",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="Eigen::Select\< Condition\lMatrixType, ThenMatrixType,\l ElseMatrixType \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classEigen_1_1Select.html",tooltip="Expression of a coefficient wise version of the C++ ternary operator ?: "];
+  Node1 -> Node12 [dir="back",color="firebrick4",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="Eigen::SparseDiagonalProduct\l\< Lhs, Rhs \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classEigen_1_1SparseDiagonalProduct.html"];
+  Node1 -> Node13 [dir="back",color="firebrick4",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="Eigen::SparseInnerVector\lSet\< MatrixType, Size \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classEigen_1_1SparseInnerVectorSet.html"];
+  Node1 -> Node14 [dir="back",color="firebrick4",fontsize="10",style="solid",fontname="Helvetica"];
+  Node14 [label="Eigen::SparseSparseProduct\l\< LhsNested, RhsNested \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classEigen_1_1SparseSparseProduct.html"];
+}

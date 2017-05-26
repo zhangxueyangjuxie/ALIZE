@@ -1,0 +1,13 @@
+digraph "Eigen::SelfAdjointView&lt; MatrixType, UpLo &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="Eigen::SelfAdjointView\l\< MatrixType, UpLo \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="Eigen::TriangularBase\l\< SelfAdjointView\< MatrixType,\l UpLo \> \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classEigen_1_1TriangularBase.html"];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="Eigen::EigenBase\< SelfAdjoint\lView\< MatrixType, UpLo \> \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structEigen_1_1EigenBase.html"];
+  Node4 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_matrix" ,fontname="Helvetica"];
+  Node4 [label="Eigen::internal::traits\l\< SelfAdjointView \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structEigen_1_1internal_1_1traits.html"];
+}

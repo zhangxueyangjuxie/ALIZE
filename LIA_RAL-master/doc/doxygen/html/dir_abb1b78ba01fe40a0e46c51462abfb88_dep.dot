@@ -1,0 +1,13 @@
+digraph "LIA_SpkDet/CovIntra/src/SVDLIBC" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_4b9020e708847563183ac4b7383d8b7c {
+    graph [ bgcolor="#ddddee", pencolor="black", label="src" fontname="Helvetica", fontsize="10", URL="dir_4b9020e708847563183ac4b7383d8b7c.html"]
+  subgraph clusterdir_abb1b78ba01fe40a0e46c51462abfb88 {
+    graph [ bgcolor="#eeeeff", pencolor="black", label="" URL="dir_abb1b78ba01fe40a0e46c51462abfb88.html"];
+    dir_abb1b78ba01fe40a0e46c51462abfb88 [shape=plaintext label="SVDLIBC"];
+    dir_6489c181da16a4d7b2f46f5b3583c6a2 [shape=box label="Manual" color="black" fillcolor="white" style="filled" URL="dir_6489c181da16a4d7b2f46f5b3583c6a2.html"];
+  }
+  }
+}

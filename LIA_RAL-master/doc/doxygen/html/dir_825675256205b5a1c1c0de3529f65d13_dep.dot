@@ -1,0 +1,9 @@
+digraph "LIA_SpkSeg/AcousticSegmentation/include" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_70ed66c36aca9f6ba435097bf7276a4f {
+    graph [ bgcolor="#ddddee", pencolor="black", label="AcousticSegmentation" fontname="Helvetica", fontsize="10", URL="dir_70ed66c36aca9f6ba435097bf7276a4f.html"]
+  dir_825675256205b5a1c1c0de3529f65d13 [shape=box, label="include", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_825675256205b5a1c1c0de3529f65d13.html"];
+  }
+}

@@ -1,0 +1,12 @@
+digraph "Eigen::DenseCoeffsBase&lt; Derived, DirectWriteAccessors &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="Eigen::DenseCoeffsBase\l\< Derived, DirectWriteAccessors \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="Eigen::DenseCoeffsBase\l\< Derived, WriteAccessors \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classEigen_1_1DenseCoeffsBase_3_01Derived_00_01WriteAccessors_01_4.html",tooltip="Base class providing read/write coefficient access to matrices and arrays. "];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="Eigen::DenseCoeffsBase\l\< Derived, ReadOnlyAccessors \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classEigen_1_1DenseCoeffsBase_3_01Derived_00_01ReadOnlyAccessors_01_4.html",tooltip="Base class providing read-only coefficient access to matrices and arrays. "];
+  Node4 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="Eigen::EigenBase\< Derived \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structEigen_1_1EigenBase.html"];
+}

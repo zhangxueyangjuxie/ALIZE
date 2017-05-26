@@ -1,0 +1,16 @@
+digraph "include/Eigen/src/Core/arch" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_7f402a03bdf717cd474b922cdc15d316 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="Core" fontname="Helvetica", fontsize="10", URL="dir_7f402a03bdf717cd474b922cdc15d316.html"]
+  subgraph clusterdir_49b8c5b2dd9b185b73fd3aeed78053f5 {
+    graph [ bgcolor="#eeeeff", pencolor="black", label="" URL="dir_49b8c5b2dd9b185b73fd3aeed78053f5.html"];
+    dir_49b8c5b2dd9b185b73fd3aeed78053f5 [shape=plaintext label="arch"];
+    dir_8a4c3554aaac375026d296efb9d60e71 [shape=box label="AltiVec" color="black" fillcolor="white" style="filled" URL="dir_8a4c3554aaac375026d296efb9d60e71.html"];
+    dir_63cc6eb77cc4752a2d38095c134d1681 [shape=box label="Default" color="black" fillcolor="white" style="filled" URL="dir_63cc6eb77cc4752a2d38095c134d1681.html"];
+    dir_67b9a4c14d9ed0521850714c063d1d85 [shape=box label="NEON" color="black" fillcolor="white" style="filled" URL="dir_67b9a4c14d9ed0521850714c063d1d85.html"];
+    dir_c4ca296165c737f37202ab33a63d390a [shape=box label="SSE" color="black" fillcolor="white" style="filled" URL="dir_c4ca296165c737f37202ab33a63d390a.html"];
+  }
+  }
+}

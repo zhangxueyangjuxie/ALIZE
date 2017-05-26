@@ -1,0 +1,27 @@
+digraph "Eigen::SelfadjointProductMatrix&lt; Lhs, LhsMode, false, Rhs, RhsMode, false &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="Eigen::SelfadjointProduct\lMatrix\< Lhs, LhsMode, false,\l Rhs, RhsMode, false \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="Eigen::ProductBase\l\< SelfadjointProductMatrix\l\< Lhs, LhsMode, false, Rhs,\l RhsMode, false \>, Lhs, Rhs \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classEigen_1_1ProductBase.html"];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="Eigen::MatrixBase\<\l SelfadjointProductMatrix\l\< Lhs, LhsMode, false, Rhs,\l RhsMode, false \> \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classEigen_1_1MatrixBase.html",tooltip="Base class for all dense matrices, vectors, and expressions. "];
+  Node4 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="Eigen::DenseBase\< Derived \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classEigen_1_1DenseBase.html",tooltip="Base class for all dense matrices, vectors, and arrays. "];
+  Node5 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="Eigen::internal::special\l_scalar_op_base\< Derived,\l internal::traits\< Derived\l \>::Scalar, NumTraits\< internal\l::traits\< Derived \>::Scalar \>::Real \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structEigen_1_1internal_1_1special__scalar__op__base.html"];
+  Node6 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="Eigen::DenseCoeffsBase\l\< Derived \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classEigen_1_1DenseCoeffsBase.html"];
+  Node7 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_result" ,fontname="Helvetica"];
+  Node7 [label="Eigen::Matrix\< _Scalar,\l _Rows, _Cols, _Options,\l _MaxRows, _MaxCols \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classEigen_1_1Matrix.html",tooltip="The matrix class, also used for vectors and row-vectors. "];
+  Node8 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="Eigen::PlainObjectBase\l\< Matrix\< _Scalar, _Rows,\l _Cols, _Options, _MaxRows,\l _MaxCols \> \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classEigen_1_1PlainObjectBase.html"];
+  Node9 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="internal::dense_xpr\l_base::type\< Matrix\l\< _Scalar, _Rows, _Cols,\l _Options, _MaxRows, _MaxCols \> \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node10 -> Node8 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_storage" ,fontname="Helvetica"];
+  Node10 [label="Eigen::DenseStorage\l\< Scalar, Base::MaxSizeAtCompile\lTime, Base::RowsAtCompileTime,\l Base::ColsAtCompileTime, Options \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classEigen_1_1DenseStorage.html"];
+  Node11 -> Node10 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_data" ,fontname="Helvetica"];
+  Node11 [label="Eigen::internal::plain\l_array\< Scalar, Size,\l _Options \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structEigen_1_1internal_1_1plain__array.html"];
+}

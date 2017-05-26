@@ -1,0 +1,10 @@
+digraph "LIA_SpkDet/IvExtractor/include/IvExtractor.h"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="LIA_SpkDet/IvExtractor\l/include/IvExtractor.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="LIA_SpkDet/IvExtractor\l/src/IvExtractor.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$IvExtractor_8cpp.html"];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="LIA_SpkDet/IvExtractor\l/src/IvExtractorMain.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$IvExtractorMain_8cpp.html"];
+}

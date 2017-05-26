@@ -1,0 +1,9 @@
+digraph "LIA_Utils/ReadModel/include" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_112c1307199a81c4ef506a387e18ecbf {
+    graph [ bgcolor="#ddddee", pencolor="black", label="ReadModel" fontname="Helvetica", fontsize="10", URL="dir_112c1307199a81c4ef506a387e18ecbf.html"]
+  dir_9ef9880331c30f6b21358ab5de1428be [shape=box, label="include", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_9ef9880331c30f6b21358ab5de1428be.html"];
+  }
+}

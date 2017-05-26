@@ -1,0 +1,9 @@
+digraph "LIA_SpkSeg/ReSegmentation/include" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_9078f5df4e5e5291265130efe2cc83ae {
+    graph [ bgcolor="#ddddee", pencolor="black", label="ReSegmentation" fontname="Helvetica", fontsize="10", URL="dir_9078f5df4e5e5291265130efe2cc83ae.html"]
+  dir_13557a7b0c0e03c3e4dac34ef9ade589 [shape=box, label="include", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_13557a7b0c0e03c3e4dac34ef9ade589.html"];
+  }
+}

@@ -1,0 +1,247 @@
+TrainTarget - Load world model [world]
+Use[world] for initializing EM
+Train model [xaaf]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1691] Selected frames[1691] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -67.9728
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [xaaf]
+Train model [xabr]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[17361] Selected frames[17361] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -67.777
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [xabr]
+Train model [xacf]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[19524] Selected frames[19524] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -67.5417
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [xacf]
+Train model [xacz]
+Warning File[xacz], Truncate Segment begin:6322 length:21 file size:6342 new length:20
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[2285] Selected frames[2285] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -68.6906
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [xacz]
+Train model [xaei]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1913] Selected frames[1913] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -67.6199
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [xaei]
+Train model [xaeo]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[15107] Selected frames[15107] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -67.277
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [xaeo]
+Train model [xafa]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[7782] Selected frames[7782] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -67.2282
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [xafa]
+Train model [xafn]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[2142] Selected frames[2142] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -67.5309
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [xafn]
+Train model [xaga]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[9283] Selected frames[9283] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -67.3347
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [xaga]
+Train model [xaha]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1580] Selected frames[1580] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -66.7434
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [xaha]
+Train model [xahk]
+Warning File[xahk], Truncate Segment begin:30944 length:51 file size:30994 new length:50
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[15901] Selected frames[15901] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -67.5387
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [xahk]
+Train model [xaht]
+Warning File[xaht], Truncate Segment begin:6310 length:5 file size:6314 new length:4
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[2343] Selected frames[2343] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -67.9761
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [xaht]
+Train model [xaig]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1385] Selected frames[1385] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -68.1577
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [xaig]
+Train model [xajc]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[2235] Selected frames[2235] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -67.7934
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [xajc]
+Train model [xajx]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[9724] Selected frames[9724] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -67.9438
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [xajx]
+Train model [xakm]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[15638] Selected frames[15638] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -68.2754
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [xakm]
+Train model [xakw]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1871] Selected frames[1871] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -68.0205
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [xakw]
+Train model [xali]
+Warning File[xali], Truncate Segment begin:30912 length:83 file size:30994 new length:82
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[11292] Selected frames[11292] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -66.9224
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [xali]
+Train model [xalx]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[2064] Selected frames[2064] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -67.7052
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [xalx]
+Train model [xanp]
+Warning File[xanp], Truncate Segment begin:30956 length:39 file size:30994 new length:38
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[13757] Selected frames[13757] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -68.2628
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [xanp]

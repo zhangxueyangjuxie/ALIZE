@@ -1,0 +1,9 @@
+digraph "include/Eigen/src/Eigen2Support/Geometry" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_68ef8e6d1f26bbac0943f8ec68f747f9 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="Eigen2Support" fontname="Helvetica", fontsize="10", URL="dir_68ef8e6d1f26bbac0943f8ec68f747f9.html"]
+  dir_d09301fcf48d8954049f2ecb6274d806 [shape=box, label="Geometry", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_d09301fcf48d8954049f2ecb6274d806.html"];
+  }
+}

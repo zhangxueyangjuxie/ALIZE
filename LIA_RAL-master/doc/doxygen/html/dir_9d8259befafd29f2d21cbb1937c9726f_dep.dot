@@ -1,0 +1,9 @@
+digraph "LIA_Utils/LabelNGram/include" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_9cbce39a1c55326e924543e2b48f4f2d {
+    graph [ bgcolor="#ddddee", pencolor="black", label="LabelNGram" fontname="Helvetica", fontsize="10", URL="dir_9cbce39a1c55326e924543e2b48f4f2d.html"]
+  dir_9d8259befafd29f2d21cbb1937c9726f [shape=box, label="include", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_9d8259befafd29f2d21cbb1937c9726f.html"];
+  }
+}

@@ -1,0 +1,9 @@
+digraph "Eigen::internal::traits&lt; Matrix&lt; _Scalar, _Rows, _Cols, _Options, _MaxRows, _MaxCols &gt; &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="Eigen::internal::traits\l\< Matrix\< _Scalar, _Rows,\l _Cols, _Options, _MaxRows,\l _MaxCols \> \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="Eigen::internal::traits\l\< Array\< _Scalar, _Rows,\l _Cols, _Options, _MaxRows,\l _MaxCols \> \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structEigen_1_1internal_1_1traits_3_01Array_3_01__Scalar_00_01__Rows_00_01__Cols_00_01__Options_37ffcfaaa78edf67b2a7bb8bc17557b2.html"];
+}

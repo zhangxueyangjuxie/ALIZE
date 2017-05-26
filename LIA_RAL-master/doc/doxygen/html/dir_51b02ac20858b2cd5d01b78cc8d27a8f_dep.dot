@@ -1,0 +1,18 @@
+digraph "LIA_SpkDet/EigenChannel" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_3956374995d7175cff63206a008f608a {
+    graph [ bgcolor="#ddddee", pencolor="black", label="LIA_SpkDet" fontname="Helvetica", fontsize="10", URL="dir_3956374995d7175cff63206a008f608a.html"]
+  subgraph clusterdir_51b02ac20858b2cd5d01b78cc8d27a8f {
+    graph [ bgcolor="#eeeeff", pencolor="black", label="" URL="dir_51b02ac20858b2cd5d01b78cc8d27a8f.html"];
+    dir_51b02ac20858b2cd5d01b78cc8d27a8f [shape=plaintext label="EigenChannel"];
+    dir_bd05d9c5ccd0cf2020d8907e58432f5d [shape=box label="include" color="black" fillcolor="white" style="filled" URL="dir_bd05d9c5ccd0cf2020d8907e58432f5d.html"];
+    dir_914279d91faa1fb84e478784a7c82941 [shape=box label="src" color="black" fillcolor="white" style="filled" URL="dir_914279d91faa1fb84e478784a7c82941.html"];
+  }
+  }
+  dir_7b9f40c7474acebf25e66f966c5b9c6a [shape=box label="LIA_SpkTools" fillcolor="white" style="filled" color="red" URL="dir_7b9f40c7474acebf25e66f966c5b9c6a.html"];
+  dir_914279d91faa1fb84e478784a7c82941->dir_7b9f40c7474acebf25e66f966c5b9c6a [headlabel="2", labeldistance=1.5 headhref="dir_000054_000110.html"];
+  dir_914279d91faa1fb84e478784a7c82941->dir_bd05d9c5ccd0cf2020d8907e58432f5d [headlabel="2", labeldistance=1.5 headhref="dir_000054_000053.html"];
+  dir_bd05d9c5ccd0cf2020d8907e58432f5d->dir_7b9f40c7474acebf25e66f966c5b9c6a [headlabel="1", labeldistance=1.5 headhref="dir_000053_000110.html"];
+}

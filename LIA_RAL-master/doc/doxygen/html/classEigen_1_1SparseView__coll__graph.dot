@@ -1,0 +1,14 @@
+digraph "Eigen::SparseView&lt; MatrixType &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="Eigen::SparseView\<\l MatrixType \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="Eigen::SparseMatrixBase\l\< SparseView\< MatrixType \> \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classEigen_1_1SparseMatrixBase.html"];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="Eigen::EigenBase\< Sparse\lView\< MatrixType \> \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structEigen_1_1EigenBase.html"];
+  Node4 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_epsilon" ,fontname="Helvetica"];
+  Node4 [label="Eigen::NumTraits\< Scalar \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structEigen_1_1NumTraits.html"];
+  Node5 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="Eigen::GenericNumTraits\l\< Scalar \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structEigen_1_1GenericNumTraits.html"];
+}

@@ -1,0 +1,15 @@
+digraph "Eigen::ArrayWrapper&lt; ExpressionType &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="Eigen::ArrayWrapper\l\< ExpressionType \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="Eigen::ArrayBase\< ArrayWrapper\l\< ExpressionType \> \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classEigen_1_1ArrayBase.html"];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="Eigen::DenseBase\< ArrayWrapper\l\< ExpressionType \> \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classEigen_1_1DenseBase.html",tooltip="Base class for all dense matrices, vectors, and arrays. "];
+  Node4 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="Eigen::internal::special\l_scalar_op_base\< Derived,\l internal::traits\< Derived\l \>::Scalar, NumTraits\< internal\l::traits\< Derived \>::Scalar \>::Real \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structEigen_1_1internal_1_1special__scalar__op__base.html"];
+  Node5 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="Eigen::DenseCoeffsBase\l\< Derived \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classEigen_1_1DenseCoeffsBase.html"];
+}

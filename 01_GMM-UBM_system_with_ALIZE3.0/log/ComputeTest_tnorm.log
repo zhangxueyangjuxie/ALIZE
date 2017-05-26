@@ -1,0 +1,54 @@
+(ComputeTest) No Channel Compensation
+Compute Test, Decime mode[1] File Mode- 1 LLR by file
+Warning File[xaod], Truncate Segment begin:30990 length:5 file size:30994 new length:4
+test seg[xaod]
+test seg[xaoh]
+Warning File[xaom], Truncate Segment begin:30986 length:9 file size:30994 new length:8
+test seg[xaom]
+test seg[xaor]
+test seg[xaqa]
+test seg[xaqe]
+test seg[xaqh]
+Warning File[xaqp], Truncate Segment begin:30990 length:5 file size:30994 new length:4
+test seg[xaqp]
+test seg[xarm]
+test seg[xarw]
+Warning File[xary], Truncate Segment begin:30701 length:294 file size:30994 new length:293
+test seg[xary]
+test seg[xatm]
+test seg[xaty]
+Warning File[xawq], Truncate Segment begin:6943 length:1258 file size:8200 new length:1257
+test seg[xawq]
+test seg[xaxq]
+test seg[xbba]
+test seg[xbey]
+test seg[xbfu]
+test seg[xbhg]
+test seg[xbil]
+test seg[xbjl]
+Warning File[xbkl], Truncate Segment begin:10674 length:451 file size:11124 new length:450
+test seg[xbkl]
+test seg[xbmn]
+Warning File[xbpa], Truncate Segment begin:30989 length:6 file size:30994 new length:5
+test seg[xbpa]
+test seg[xbsk]
+Warning File[xbur], Truncate Segment begin:7963 length:374 file size:8336 new length:373
+test seg[xbur]
+test seg[xbws]
+test seg[xcem]
+test seg[xcgs]
+Warning File[xcmm], Truncate Segment begin:29428 length:1567 file size:30994 new length:1566
+test seg[xcmm]
+Warning File[xcpw], Truncate Segment begin:30963 length:32 file size:30994 new length:31
+test seg[xcpw]
+Warning File[xddo], Truncate Segment begin:30968 length:27 file size:30994 new length:26
+test seg[xddo]
+test seg[xdhx]
+Warning File[xdis], Truncate Segment begin:30981 length:14 file size:30994 new length:13
+test seg[xdis]
+test seg[xdmd]
+test seg[xdsk]
+test seg[xdws]
+test seg[xfbq]
+test seg[xfdr]
+test seg[xfvs]

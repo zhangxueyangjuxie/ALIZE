@@ -1,0 +1,17 @@
+digraph "Eigen::ScaledProduct&lt; NestedProduct &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="Eigen::ScaledProduct\l\< NestedProduct \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="Eigen::ProductBase\l\< ScaledProduct\< NestedProduct\l \>, NestedProduct::_LhsNested,\l NestedProduct::_RhsNested \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classEigen_1_1ProductBase.html"];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="Eigen::MatrixBase\<\l ScaledProduct\< NestedProduct \> \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classEigen_1_1MatrixBase.html",tooltip="Base class for all dense matrices, vectors, and expressions. "];
+  Node4 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="Eigen::DenseBase\< Derived \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classEigen_1_1DenseBase.html",tooltip="Base class for all dense matrices, vectors, and arrays. "];
+  Node5 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="Eigen::internal::special\l_scalar_op_base\< Derived,\l internal::traits\< Derived\l \>::Scalar, NumTraits\< internal\l::traits\< Derived \>::Scalar \>::Real \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structEigen_1_1internal_1_1special__scalar__op__base.html"];
+  Node6 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="Eigen::DenseCoeffsBase\l\< Derived \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classEigen_1_1DenseCoeffsBase.html"];
+}

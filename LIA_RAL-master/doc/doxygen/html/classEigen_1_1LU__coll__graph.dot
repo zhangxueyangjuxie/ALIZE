@@ -1,0 +1,28 @@
+digraph "Eigen::LU&lt; MatrixType &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="Eigen::LU\< MatrixType \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="Eigen::FullPivLU\< Matrix\lType \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classEigen_1_1FullPivLU.html",tooltip="LU decomposition of a matrix with complete pivoting, and related features. "];
+  Node3 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_p" ,fontname="Helvetica"];
+  Node3 [label="Eigen::PermutationMatrix\l\< RowsAtCompileTime, MaxRowsAt\lCompileTime \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classEigen_1_1PermutationMatrix.html"];
+  Node4 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="Eigen::PermutationBase\l\< PermutationMatrix\< SizeAtCompile\lTime, MaxSizeAtCompileTime, IndexType \> \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classEigen_1_1PermutationBase.html"];
+  Node5 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="Eigen::EigenBase\< Permutation\lMatrix\< SizeAtCompileTime,\l MaxSizeAtCompileTime, IndexType \> \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structEigen_1_1EigenBase.html"];
+  Node6 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_lu" ,fontname="Helvetica"];
+  Node6 [label="_MatrixType",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node7 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_rowsTranspositions" ,fontname="Helvetica"];
+  Node7 [label="Eigen::internal::plain\l_col_type\< MatrixType,\l Index \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structEigen_1_1internal_1_1plain__col__type.html"];
+  Node8 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_q" ,fontname="Helvetica"];
+  Node8 [label="Eigen::PermutationMatrix\l\< ColsAtCompileTime, MaxColsAt\lCompileTime \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classEigen_1_1PermutationMatrix.html"];
+  Node4 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_prescribedThreshold\nm_maxpivot" ,fontname="Helvetica"];
+  Node9 [label="Eigen::NumTraits\< typename\l MatrixType::Scalar \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structEigen_1_1NumTraits.html"];
+  Node10 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="Eigen::GenericNumTraits\l\< typename MatrixType\l::Scalar \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structEigen_1_1GenericNumTraits.html"];
+  Node11 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_colsTranspositions" ,fontname="Helvetica"];
+  Node11 [label="Eigen::internal::plain\l_row_type\< MatrixType,\l Index \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structEigen_1_1internal_1_1plain__row__type.html"];
+}

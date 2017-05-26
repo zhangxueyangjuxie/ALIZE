@@ -1,0 +1,11 @@
+digraph "Eigen::internal::sparse_cwise_binary_op_inner_iterator_selector&lt; scalar_product_op&lt; T &gt;, Lhs, Rhs, Derived, Sparse, Dense &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="Eigen::internal::sparse\l_cwise_binary_op_inner\l_iterator_selector\< scalar\l_product_op\< T \>, Lhs, Rhs,\l Derived, Sparse, Dense \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node2 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_rhs" ,fontname="Helvetica"];
+  Node2 [label="Eigen::internal::traits\l\< CwiseBinaryXpr \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structEigen_1_1internal_1_1traits.html"];
+  Node3 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_functor" ,fontname="Helvetica"];
+  Node3 [label="Eigen::internal::scalar\l_product_op\< LhsScalar,\l RhsScalar \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structEigen_1_1internal_1_1scalar__product__op.html"];
+}

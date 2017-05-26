@@ -1,0 +1,9 @@
+digraph "LIA_Utils/FusionScore/include" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_bca75b6b359cbed0ffb0ad0b6859e2ad {
+    graph [ bgcolor="#ddddee", pencolor="black", label="FusionScore" fontname="Helvetica", fontsize="10", URL="dir_bca75b6b359cbed0ffb0ad0b6859e2ad.html"]
+  dir_3dbe51c0a8c756f26ee035380ca3f69a [shape=box, label="include", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_3dbe51c0a8c756f26ee035380ca3f69a.html"];
+  }
+}

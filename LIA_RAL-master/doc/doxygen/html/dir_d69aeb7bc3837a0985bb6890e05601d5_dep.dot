@@ -1,0 +1,11 @@
+digraph "include/Eigen/src/SparseCholesky" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_17db75917637b7e81f1284e33243b998 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="src" fontname="Helvetica", fontsize="10", URL="dir_17db75917637b7e81f1284e33243b998.html"]
+  dir_d69aeb7bc3837a0985bb6890e05601d5 [shape=box, label="SparseCholesky", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_d69aeb7bc3837a0985bb6890e05601d5.html"];
+  }
+  dir_7f402a03bdf717cd474b922cdc15d316 [shape=box label="Core" fillcolor="white" style="filled" color="red" URL="dir_7f402a03bdf717cd474b922cdc15d316.html"];
+  dir_d69aeb7bc3837a0985bb6890e05601d5->dir_7f402a03bdf717cd474b922cdc15d316 [headlabel="1", labeldistance=1.5 headhref="dir_000030_000005.html"];
+}

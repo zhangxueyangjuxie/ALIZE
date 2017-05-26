@@ -1,0 +1,23 @@
+digraph "Eigen::GeneralizedSelfAdjointEigenSolver&lt; _MatrixType &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="Eigen::GeneralizedSelfAdjoint\lEigenSolver\< _MatrixType \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="Eigen::SelfAdjointEigenSolver\l\< _MatrixType \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classEigen_1_1SelfAdjointEigenSolver.html",tooltip="Computes eigenvalues and eigenvectors of selfadjoint matrices. "];
+  Node3 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_subdiag" ,fontname="Helvetica"];
+  Node3 [label="Eigen::Matrix\< _Scalar,\l _Rows, _Cols, _Options,\l _MaxRows, _MaxCols \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classEigen_1_1Matrix.html",tooltip="The matrix class, also used for vectors and row-vectors. "];
+  Node4 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="Eigen::PlainObjectBase\l\< Matrix\< _Scalar, _Rows,\l _Cols, _Options, _MaxRows,\l _MaxCols \> \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classEigen_1_1PlainObjectBase.html"];
+  Node5 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="internal::dense_xpr\l_base::type\< Matrix\l\< _Scalar, _Rows, _Cols,\l _Options, _MaxRows, _MaxCols \> \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node6 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_storage" ,fontname="Helvetica"];
+  Node6 [label="Eigen::DenseStorage\l\< Scalar, Base::MaxSizeAtCompile\lTime, Base::RowsAtCompileTime,\l Base::ColsAtCompileTime, Options \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classEigen_1_1DenseStorage.html"];
+  Node7 -> Node6 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_data" ,fontname="Helvetica"];
+  Node7 [label="Eigen::internal::plain\l_array\< Scalar, Size,\l _Options \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structEigen_1_1internal_1_1plain__array.html"];
+  Node8 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_eivec" ,fontname="Helvetica"];
+  Node8 [label="_MatrixType",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node9 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_eivalues" ,fontname="Helvetica"];
+  Node9 [label="Eigen::internal::plain\l_col_type\< MatrixType,\l RealScalar \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structEigen_1_1internal_1_1plain__col__type.html"];
+}

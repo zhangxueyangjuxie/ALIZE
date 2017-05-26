@@ -1,0 +1,9 @@
+digraph "include/lapacke" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_d44c64559bbebec7f509842c48db8b23 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="include" fontname="Helvetica", fontsize="10", URL="dir_d44c64559bbebec7f509842c48db8b23.html"]
+  dir_e9e15ae8d691ccd169c06f6bcb43ccc7 [shape=box, label="lapacke", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_e9e15ae8d691ccd169c06f6bcb43ccc7.html"];
+  }
+}

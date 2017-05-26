@@ -1,0 +1,10 @@
+digraph "LIA_SpkDet/ComputeNorm/include/ComputeNorm.h"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="LIA_SpkDet/ComputeNorm\l/include/ComputeNorm.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="LIA_SpkDet/ComputeNorm\l/src/ComputeNorm.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$ComputeNorm_8cpp.html"];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="LIA_SpkDet/ComputeNorm\l/src/ComputeNormMain.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$ComputeNormMain_8cpp.html"];
+}

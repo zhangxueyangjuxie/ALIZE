@@ -1,0 +1,19 @@
+digraph "Eigen::PartialPivLU&lt; MatrixType &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="Eigen::PartialPivLU\l\< MatrixType \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node2 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_p" ,fontname="Helvetica"];
+  Node2 [label="Eigen::PermutationMatrix\l\< RowsAtCompileTime, MaxRowsAt\lCompileTime \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classEigen_1_1PermutationMatrix.html"];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="Eigen::PermutationBase\l\< PermutationMatrix\< SizeAtCompile\lTime, MaxSizeAtCompileTime, IndexType \> \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classEigen_1_1PermutationBase.html"];
+  Node4 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="Eigen::EigenBase\< Permutation\lMatrix\< SizeAtCompileTime,\l MaxSizeAtCompileTime, IndexType \> \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structEigen_1_1EigenBase.html"];
+  Node5 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_lu" ,fontname="Helvetica"];
+  Node5 [label="_MatrixType",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node6 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_rowsTranspositions" ,fontname="Helvetica"];
+  Node6 [label="Eigen::Transpositions\l\< RowsAtCompileTime,\l MaxRowsAtCompileTime \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classEigen_1_1Transpositions.html"];
+  Node7 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="Eigen::TranspositionsBase\l\< Transpositions\< SizeAtCompile\lTime, MaxSizeAtCompileTime,\l IndexType \> \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classEigen_1_1TranspositionsBase.html"];
+}

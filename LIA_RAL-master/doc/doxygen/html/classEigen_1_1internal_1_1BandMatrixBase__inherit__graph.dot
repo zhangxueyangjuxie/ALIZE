@@ -1,0 +1,15 @@
+digraph "Eigen::internal::BandMatrixBase&lt; Derived &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="Eigen::internal::BandMatrix\lBase\< Derived \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="Eigen::EigenBase\< Derived \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structEigen_1_1EigenBase.html"];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="BandMatrix\< RealScalar,\l ColsAtCompileTime, ColsAtCompile\lTime, 1, 0 \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classEigen_1_1internal_1_1BandMatrix.html"];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="BandMatrix\< Scalar,\l Size, Size, Options\l &SelfAdjoint?0:1, 1,\l Options\|RowMajor \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classEigen_1_1internal_1_1BandMatrix.html"];
+  Node4 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="Eigen::internal::Tridiagonal\lMatrix\< Scalar, Size, Options \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classEigen_1_1internal_1_1TridiagonalMatrix.html",tooltip="Represents a tridiagonal matrix with a compact banded storage. "];
+}

@@ -1,0 +1,116 @@
+(AccumulateTVStat) Compute Statistics UnThreaded
+Processing file[sa1]
+Processing file[sa2]
+Processing file[si648]
+Processing file[si1027]
+Processing file[si1657]
+Processing file[sx37]
+Processing file[sx127]
+Processing file[sx217]
+Processing file[sx307]
+Processing file[sx397]
+(AccumulateTVStat) Statisitc Accumulators saved
+(AccumulateTVStat) Random Init for TotalVariability Matrix with normal law , rank: [10] sv size: [1600]
+	(TotalVariability) Save the initial TotalVariability Matrix in TV_init
+	(TotalVariability) --------- start iteration 0 --------
+(AccumulateTVStat) Substract Mean from Speaker Statistics
+(AccumulateTVStat) compute V * Sigma-1 * V 
+(AccumulateTVStat) Compute and Inverse L Matrix for TotalVariability 
+(AccumulateTVStat) Update T Matrix
+(AccumulateTVStat) Done 
+(AccumulateTVStat) Minimum Divergence step 
+(AccumulateTVStat) Done 
+(AccumulateTVStat) ---------load statistics N [ 10 ] [ 32 ]
+(AccumulateTVStat) ---------load statistics F_X [ 10 ] [ 1600 ]
+	(TotalVariability) --------- start iteration 1 --------
+(AccumulateTVStat) Substract Mean from Speaker Statistics
+(AccumulateTVStat) compute V * Sigma-1 * V 
+(AccumulateTVStat) Compute and Inverse L Matrix for TotalVariability 
+(AccumulateTVStat) Update T Matrix
+(AccumulateTVStat) Done 
+(AccumulateTVStat) Minimum Divergence step 
+(AccumulateTVStat) Done 
+(AccumulateTVStat) ---------load statistics N [ 10 ] [ 32 ]
+(AccumulateTVStat) ---------load statistics F_X [ 10 ] [ 1600 ]
+	(TotalVariability) --------- start iteration 2 --------
+(AccumulateTVStat) Substract Mean from Speaker Statistics
+(AccumulateTVStat) compute V * Sigma-1 * V 
+(AccumulateTVStat) Compute and Inverse L Matrix for TotalVariability 
+(AccumulateTVStat) Update T Matrix
+(AccumulateTVStat) Done 
+(AccumulateTVStat) Minimum Divergence step 
+(AccumulateTVStat) Done 
+(AccumulateTVStat) ---------load statistics N [ 10 ] [ 32 ]
+(AccumulateTVStat) ---------load statistics F_X [ 10 ] [ 1600 ]
+	(TotalVariability) --------- start iteration 3 --------
+(AccumulateTVStat) Substract Mean from Speaker Statistics
+(AccumulateTVStat) compute V * Sigma-1 * V 
+(AccumulateTVStat) Compute and Inverse L Matrix for TotalVariability 
+(AccumulateTVStat) Update T Matrix
+(AccumulateTVStat) Done 
+(AccumulateTVStat) Minimum Divergence step 
+(AccumulateTVStat) Done 
+(AccumulateTVStat) ---------load statistics N [ 10 ] [ 32 ]
+(AccumulateTVStat) ---------load statistics F_X [ 10 ] [ 1600 ]
+	(TotalVariability) --------- start iteration 4 --------
+(AccumulateTVStat) Substract Mean from Speaker Statistics
+(AccumulateTVStat) compute V * Sigma-1 * V 
+(AccumulateTVStat) Compute and Inverse L Matrix for TotalVariability 
+(AccumulateTVStat) Update T Matrix
+(AccumulateTVStat) Done 
+(AccumulateTVStat) Minimum Divergence step 
+(AccumulateTVStat) Done 
+(AccumulateTVStat) ---------load statistics N [ 10 ] [ 32 ]
+(AccumulateTVStat) ---------load statistics F_X [ 10 ] [ 1600 ]
+	(TotalVariability) --------- start iteration 5 --------
+(AccumulateTVStat) Substract Mean from Speaker Statistics
+(AccumulateTVStat) compute V * Sigma-1 * V 
+(AccumulateTVStat) Compute and Inverse L Matrix for TotalVariability 
+(AccumulateTVStat) Update T Matrix
+(AccumulateTVStat) Done 
+(AccumulateTVStat) Minimum Divergence step 
+(AccumulateTVStat) Done 
+(AccumulateTVStat) ---------load statistics N [ 10 ] [ 32 ]
+(AccumulateTVStat) ---------load statistics F_X [ 10 ] [ 1600 ]
+	(TotalVariability) --------- start iteration 6 --------
+(AccumulateTVStat) Substract Mean from Speaker Statistics
+(AccumulateTVStat) compute V * Sigma-1 * V 
+(AccumulateTVStat) Compute and Inverse L Matrix for TotalVariability 
+(AccumulateTVStat) Update T Matrix
+(AccumulateTVStat) Done 
+(AccumulateTVStat) Minimum Divergence step 
+(AccumulateTVStat) Done 
+(AccumulateTVStat) ---------load statistics N [ 10 ] [ 32 ]
+(AccumulateTVStat) ---------load statistics F_X [ 10 ] [ 1600 ]
+	(TotalVariability) --------- start iteration 7 --------
+(AccumulateTVStat) Substract Mean from Speaker Statistics
+(AccumulateTVStat) compute V * Sigma-1 * V 
+(AccumulateTVStat) Compute and Inverse L Matrix for TotalVariability 
+(AccumulateTVStat) Update T Matrix
+(AccumulateTVStat) Done 
+(AccumulateTVStat) Minimum Divergence step 
+(AccumulateTVStat) Done 
+(AccumulateTVStat) ---------load statistics N [ 10 ] [ 32 ]
+(AccumulateTVStat) ---------load statistics F_X [ 10 ] [ 1600 ]
+	(TotalVariability) --------- start iteration 8 --------
+(AccumulateTVStat) Substract Mean from Speaker Statistics
+(AccumulateTVStat) compute V * Sigma-1 * V 
+(AccumulateTVStat) Compute and Inverse L Matrix for TotalVariability 
+(AccumulateTVStat) Update T Matrix
+(AccumulateTVStat) Done 
+(AccumulateTVStat) Minimum Divergence step 
+(AccumulateTVStat) Done 
+(AccumulateTVStat) ---------load statistics N [ 10 ] [ 32 ]
+(AccumulateTVStat) ---------load statistics F_X [ 10 ] [ 1600 ]
+	(TotalVariability) --------- start iteration 9 --------
+(AccumulateTVStat) Substract Mean from Speaker Statistics
+(AccumulateTVStat) compute V * Sigma-1 * V 
+(AccumulateTVStat) Compute and Inverse L Matrix for TotalVariability 
+(AccumulateTVStat) Update T Matrix
+(AccumulateTVStat) Done 
+(AccumulateTVStat) Minimum Divergence step 
+(AccumulateTVStat) Done 
+(AccumulateTVStat) ---------load statistics N [ 10 ] [ 32 ]
+(AccumulateTVStat) ---------load statistics F_X [ 10 ] [ 1600 ]
+	(TotalVariability) --------- save Matrix --------
+	(TotalVariability) --------- end of process --------

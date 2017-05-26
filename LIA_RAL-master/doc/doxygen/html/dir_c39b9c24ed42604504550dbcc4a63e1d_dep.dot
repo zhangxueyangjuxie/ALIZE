@@ -1,0 +1,17 @@
+digraph "LIA_Utils/GmmTokenizer" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_d943bfca0b65a7b22a1ee61fc2aed8dc {
+    graph [ bgcolor="#ddddee", pencolor="black", label="LIA_Utils" fontname="Helvetica", fontsize="10", URL="dir_d943bfca0b65a7b22a1ee61fc2aed8dc.html"]
+  subgraph clusterdir_c39b9c24ed42604504550dbcc4a63e1d {
+    graph [ bgcolor="#eeeeff", pencolor="black", label="" URL="dir_c39b9c24ed42604504550dbcc4a63e1d.html"];
+    dir_c39b9c24ed42604504550dbcc4a63e1d [shape=plaintext label="GmmTokenizer"];
+    dir_897739256253cfae5d9070d8cd29d376 [shape=box label="include" color="black" fillcolor="white" style="filled" URL="dir_897739256253cfae5d9070d8cd29d376.html"];
+    dir_d10acb6152d46c377c75661855698cb0 [shape=box label="src" color="black" fillcolor="white" style="filled" URL="dir_d10acb6152d46c377c75661855698cb0.html"];
+  }
+  }
+  dir_7b9f40c7474acebf25e66f966c5b9c6a [shape=box label="LIA_SpkTools" fillcolor="white" style="filled" color="red" URL="dir_7b9f40c7474acebf25e66f966c5b9c6a.html"];
+  dir_d10acb6152d46c377c75661855698cb0->dir_7b9f40c7474acebf25e66f966c5b9c6a [headlabel="2", labeldistance=1.5 headhref="dir_000125_000110.html"];
+  dir_d10acb6152d46c377c75661855698cb0->dir_897739256253cfae5d9070d8cd29d376 [headlabel="2", labeldistance=1.5 headhref="dir_000125_000124.html"];
+}

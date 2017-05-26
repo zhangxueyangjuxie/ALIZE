@@ -1,0 +1,26 @@
+Compute Test, Decime mode[1] File Mode- 1 LLR by file
+test seg[xaaf]
+test seg[xabr]
+test seg[xacf]
+Warning File[xacz], Truncate Segment begin:6322 length:21 file size:6342 new length:20
+test seg[xacz]
+test seg[xaei]
+test seg[xaeo]
+test seg[xafa]
+test seg[xafn]
+test seg[xaga]
+test seg[xaha]
+Warning File[xahk], Truncate Segment begin:30944 length:51 file size:30994 new length:50
+test seg[xahk]
+Warning File[xaht], Truncate Segment begin:6310 length:5 file size:6314 new length:4
+test seg[xaht]
+test seg[xaig]
+test seg[xajc]
+test seg[xajx]
+test seg[xakm]
+test seg[xakw]
+Warning File[xali], Truncate Segment begin:30912 length:83 file size:30994 new length:82
+test seg[xali]
+test seg[xalx]
+Warning File[xanp], Truncate Segment begin:30956 length:39 file size:30994 new length:38
+test seg[xanp]

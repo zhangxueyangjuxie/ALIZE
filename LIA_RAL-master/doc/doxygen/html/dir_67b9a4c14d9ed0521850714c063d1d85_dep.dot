@@ -1,0 +1,9 @@
+digraph "include/Eigen/src/Core/arch/NEON" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_49b8c5b2dd9b185b73fd3aeed78053f5 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="arch" fontname="Helvetica", fontsize="10", URL="dir_49b8c5b2dd9b185b73fd3aeed78053f5.html"]
+  dir_67b9a4c14d9ed0521850714c063d1d85 [shape=box, label="NEON", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_67b9a4c14d9ed0521850714c063d1d85.html"];
+  }
+}

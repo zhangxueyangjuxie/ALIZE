@@ -1,0 +1,9 @@
+digraph "LIA_SpkDet/EnergyDetector/include" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_72794b5f8659c38b2c951a1a67132dcb {
+    graph [ bgcolor="#ddddee", pencolor="black", label="EnergyDetector" fontname="Helvetica", fontsize="10", URL="dir_72794b5f8659c38b2c951a1a67132dcb.html"]
+  dir_3ca2fb5ad4238c64d9bce80b3cf1bc85 [shape=box, label="include", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_3ca2fb5ad4238c64d9bce80b3cf1bc85.html"];
+  }
+}

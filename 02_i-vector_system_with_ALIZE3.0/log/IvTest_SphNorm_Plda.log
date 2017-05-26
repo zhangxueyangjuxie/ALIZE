@@ -1,0 +1,70 @@
+(PldaTest) found: 40 models and 40 test segments
+(PldaTest) Maximum number of sessions per speaker = 1
+	Load class [ 1 / 20 ]
+	Load class [ 2 / 20 ]
+	Load class [ 3 / 20 ]
+	Load class [ 4 / 20 ]
+	Load class [ 5 / 20 ]
+	Load class [ 6 / 20 ]
+	Load class [ 7 / 20 ]
+	Load class [ 8 / 20 ]
+	Load class [ 9 / 20 ]
+	Load class [ 10 / 20 ]
+	Load class [ 11 / 20 ]
+	Load class [ 12 / 20 ]
+	Load class [ 13 / 20 ]
+	Load class [ 14 / 20 ]
+	Load class [ 15 / 20 ]
+	Load class [ 16 / 20 ]
+	Load class [ 17 / 20 ]
+	Load class [ 18 / 20 ]
+	Load class [ 19 / 20 ]
+	Load class [ 20 / 20 ]
+(IvTest) Normalize i-vectors
+(IvTest)	Estimate EFR parameters
+	Eigen Factor Radial Normalization - start iteration 0
+	Spherical Nuisance Normalization 0
+		compute normalization matrix
+		center the data
+		rotate the data
+		normalize the length of the data
+	DEV: Normalize length of i-vectors ... done
+	Eigen Factor Radial Normalization - start iteration 1
+	Spherical Nuisance Normalization 1
+		compute normalization matrix
+		center the data
+		rotate the data
+		normalize the length of the data
+	DEV: Normalize length of i-vectors ... done
+	(PldaModel)	EM iteration [ 0 ]
+(PldaModel) Maximization step
+	(PldaModel)	EM iteration [ 1 ]
+(PldaModel) Maximization step
+	(PldaModel)	EM iteration [ 2 ]
+(PldaModel) Maximization step
+	(PldaModel)	EM iteration [ 3 ]
+(PldaModel) Maximization step
+	(PldaModel)	EM iteration [ 4 ]
+(PldaModel) Maximization step
+	(PldaModel)	EM iteration [ 5 ]
+(PldaModel) Maximization step
+	(PldaModel)	EM iteration [ 6 ]
+(PldaModel) Maximization step
+	(PldaModel)	EM iteration [ 7 ]
+(PldaModel) Maximization step
+	(PldaModel)	EM iteration [ 8 ]
+(PldaModel) Maximization step
+	(PldaModel)	EM iteration [ 9 ]
+(PldaModel) Maximization step
+	Eigen Factor Radial Normalization - start iteration 0
+		center the test data
+		rotate the test data
+		normalize the length of the test data
+	TEST: Normalize length ... done
+	Eigen Factor Radial Normalization - start iteration 1
+		center the test data
+		rotate the test data
+		normalize the length of the test data
+	TEST: Normalize length ... done
+(PldaTest) Compute Probabilistic Linear Discriminant Analysis native scoring
+Score computation done, writing the file in ASCII file

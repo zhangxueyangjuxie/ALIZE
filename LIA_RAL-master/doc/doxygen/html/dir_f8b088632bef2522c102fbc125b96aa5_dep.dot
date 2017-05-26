@@ -1,0 +1,17 @@
+digraph "LIA_SpkDet/NormFeat" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_3956374995d7175cff63206a008f608a {
+    graph [ bgcolor="#ddddee", pencolor="black", label="LIA_SpkDet" fontname="Helvetica", fontsize="10", URL="dir_3956374995d7175cff63206a008f608a.html"]
+  subgraph clusterdir_f8b088632bef2522c102fbc125b96aa5 {
+    graph [ bgcolor="#eeeeff", pencolor="black", label="" URL="dir_f8b088632bef2522c102fbc125b96aa5.html"];
+    dir_f8b088632bef2522c102fbc125b96aa5 [shape=plaintext label="NormFeat"];
+    dir_e82e024ade8715235d8140d24870d63c [shape=box label="include" color="black" fillcolor="white" style="filled" URL="dir_e82e024ade8715235d8140d24870d63c.html"];
+    dir_efdbb58a33cc78975c7766426946a07c [shape=box label="src" color="black" fillcolor="white" style="filled" URL="dir_efdbb58a33cc78975c7766426946a07c.html"];
+  }
+  }
+  dir_7b9f40c7474acebf25e66f966c5b9c6a [shape=box label="LIA_SpkTools" fillcolor="white" style="filled" color="red" URL="dir_7b9f40c7474acebf25e66f966c5b9c6a.html"];
+  dir_efdbb58a33cc78975c7766426946a07c->dir_7b9f40c7474acebf25e66f966c5b9c6a [headlabel="3", labeldistance=1.5 headhref="dir_000075_000110.html"];
+  dir_efdbb58a33cc78975c7766426946a07c->dir_e82e024ade8715235d8140d24870d63c [headlabel="2", labeldistance=1.5 headhref="dir_000075_000074.html"];
+}

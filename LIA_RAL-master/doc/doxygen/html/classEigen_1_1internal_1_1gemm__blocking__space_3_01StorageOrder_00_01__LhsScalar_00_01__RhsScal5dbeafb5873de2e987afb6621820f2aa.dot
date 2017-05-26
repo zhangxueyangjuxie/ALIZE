@@ -1,0 +1,9 @@
+digraph "Eigen::internal::gemm_blocking_space&lt; StorageOrder, _LhsScalar, _RhsScalar, MaxRows, MaxCols, MaxDepth, KcFactor, true &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="Eigen::internal::gemm\l_blocking_space\< StorageOrder,\l _LhsScalar, _RhsScalar, MaxRows,\l MaxCols, MaxDepth, KcFactor, true \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="Eigen::internal::level3\l_blocking\< conditional\l\< StorageOrder==RowMajor,\l _RhsScalar, _LhsScalar \>\l::type, conditional\< StorageOrder\l==RowMajor, _LhsScalar, _RhsScalar\l \>::type \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classEigen_1_1internal_1_1level3__blocking.html"];
+}

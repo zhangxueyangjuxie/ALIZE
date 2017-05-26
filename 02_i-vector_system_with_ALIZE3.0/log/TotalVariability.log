@@ -1,0 +1,185 @@
+(AccumulateTVStat) Compute Statistics UnThreaded
+Warning File[xaao], Truncate Segment begin:30980 length:15 file size:30994 new length:14
+Warning File[xacv], Truncate Segment begin:10135 length:41 file size:10175 new length:40
+Warning File[xacz], Truncate Segment begin:6322 length:21 file size:6342 new length:20
+Warning File[xadz], Truncate Segment begin:11109 length:46 file size:11154 new length:45
+Warning File[xaek], Truncate Segment begin:30970 length:25 file size:30994 new length:24
+Warning File[xafe], Truncate Segment begin:30370 length:625 file size:30994 new length:624
+Warning File[xafr], Truncate Segment begin:29701 length:1294 file size:30994 new length:1293
+Warning File[xagu], Truncate Segment begin:30992 length:3 file size:30994 new length:2
+Warning File[xagx], Truncate Segment begin:30987 length:8 file size:30994 new length:7
+Warning File[xahj], Truncate Segment begin:30988 length:7 file size:30994 new length:6
+Warning File[xahk], Truncate Segment begin:30944 length:51 file size:30994 new length:50
+Warning File[xaht], Truncate Segment begin:6310 length:5 file size:6314 new length:4
+Warning File[xahw], Truncate Segment begin:10097 length:1058 file size:11154 new length:1057
+Warning File[xaiv], Truncate Segment begin:30993 length:2 file size:30994 new length:1
+Warning File[xajg], Truncate Segment begin:5983 length:2373 file size:8355 new length:2372
+Warning File[xajo], Truncate Segment begin:7207 length:139 file size:7345 new length:138
+Warning File[xakp], Truncate Segment begin:30945 length:50 file size:30994 new length:49
+Warning File[xali], Truncate Segment begin:30912 length:83 file size:30994 new length:82
+Warning File[xanp], Truncate Segment begin:30956 length:39 file size:30994 new length:38
+Processing file[xaaf]
+Processing file[xaag]
+Processing file[xaao]
+Processing file[xabr]
+Processing file[xabu]
+Processing file[xaca]
+Processing file[xacf]
+Processing file[xacs]
+Processing file[xacv]
+Processing file[xacz]
+Processing file[xado]
+Processing file[xadz]
+Processing file[xaei]
+Processing file[xaek]
+Processing file[xaen]
+Processing file[xaeo]
+Processing file[xaep]
+Processing file[xaez]
+Processing file[xafa]
+Processing file[xafc]
+Processing file[xafe]
+Processing file[xafn]
+Processing file[xafr]
+Processing file[xafv]
+Processing file[xaga]
+Processing file[xagu]
+Processing file[xagx]
+Processing file[xaha]
+Processing file[xahb]
+Processing file[xahj]
+Processing file[xahk]
+Processing file[xahq]
+Processing file[xahs]
+Processing file[xaht]
+Processing file[xahu]
+Processing file[xahw]
+Processing file[xaig]
+Processing file[xaiu]
+Processing file[xaiv]
+Processing file[xajc]
+Processing file[xajg]
+Processing file[xajo]
+Processing file[xajx]
+Processing file[xakh]
+Processing file[xaki]
+Processing file[xakm]
+Processing file[xakn]
+Processing file[xakp]
+Processing file[xakw]
+Processing file[xakz]
+Processing file[xalf]
+Processing file[xali]
+Processing file[xalt]
+Processing file[xalu]
+Processing file[xalx]
+Processing file[xaly]
+Processing file[xamw]
+Processing file[xanp]
+Processing file[xanw]
+Processing file[xanx]
+(AccumulateTVStat) Statisitc Accumulators saved
+(AccumulateTVStat) Random Init for TotalVariability Matrix with normal law , rank: [10] sv size: [1600]
+	(TotalVariability) Save the initial TotalVariability Matrix in TV_init
+	(TotalVariability) --------- start iteration 0 --------
+(AccumulateTVStat) Substract Mean from Speaker Statistics
+(AccumulateTVStat) compute V * Sigma-1 * V 
+(AccumulateTVStat) Compute and Inverse L Matrix for TotalVariability 
+(AccumulateTVStat) Update T Matrix
+(AccumulateTVStat) Done 
+(AccumulateTVStat) Minimum Divergence step 
+(AccumulateTVStat) Done 
+(AccumulateTVStat) ---------load statistics N [ 60 ] [ 32 ]
+(AccumulateTVStat) ---------load statistics F_X [ 60 ] [ 1600 ]
+	(TotalVariability) --------- start iteration 1 --------
+(AccumulateTVStat) Substract Mean from Speaker Statistics
+(AccumulateTVStat) compute V * Sigma-1 * V 
+(AccumulateTVStat) Compute and Inverse L Matrix for TotalVariability 
+(AccumulateTVStat) Update T Matrix
+(AccumulateTVStat) Done 
+(AccumulateTVStat) Minimum Divergence step 
+(AccumulateTVStat) Done 
+(AccumulateTVStat) ---------load statistics N [ 60 ] [ 32 ]
+(AccumulateTVStat) ---------load statistics F_X [ 60 ] [ 1600 ]
+	(TotalVariability) --------- start iteration 2 --------
+(AccumulateTVStat) Substract Mean from Speaker Statistics
+(AccumulateTVStat) compute V * Sigma-1 * V 
+(AccumulateTVStat) Compute and Inverse L Matrix for TotalVariability 
+(AccumulateTVStat) Update T Matrix
+(AccumulateTVStat) Done 
+(AccumulateTVStat) Minimum Divergence step 
+(AccumulateTVStat) Done 
+(AccumulateTVStat) ---------load statistics N [ 60 ] [ 32 ]
+(AccumulateTVStat) ---------load statistics F_X [ 60 ] [ 1600 ]
+	(TotalVariability) --------- start iteration 3 --------
+(AccumulateTVStat) Substract Mean from Speaker Statistics
+(AccumulateTVStat) compute V * Sigma-1 * V 
+(AccumulateTVStat) Compute and Inverse L Matrix for TotalVariability 
+(AccumulateTVStat) Update T Matrix
+(AccumulateTVStat) Done 
+(AccumulateTVStat) Minimum Divergence step 
+(AccumulateTVStat) Done 
+(AccumulateTVStat) ---------load statistics N [ 60 ] [ 32 ]
+(AccumulateTVStat) ---------load statistics F_X [ 60 ] [ 1600 ]
+	(TotalVariability) --------- start iteration 4 --------
+(AccumulateTVStat) Substract Mean from Speaker Statistics
+(AccumulateTVStat) compute V * Sigma-1 * V 
+(AccumulateTVStat) Compute and Inverse L Matrix for TotalVariability 
+(AccumulateTVStat) Update T Matrix
+(AccumulateTVStat) Done 
+(AccumulateTVStat) Minimum Divergence step 
+(AccumulateTVStat) Done 
+(AccumulateTVStat) ---------load statistics N [ 60 ] [ 32 ]
+(AccumulateTVStat) ---------load statistics F_X [ 60 ] [ 1600 ]
+	(TotalVariability) --------- start iteration 5 --------
+(AccumulateTVStat) Substract Mean from Speaker Statistics
+(AccumulateTVStat) compute V * Sigma-1 * V 
+(AccumulateTVStat) Compute and Inverse L Matrix for TotalVariability 
+(AccumulateTVStat) Update T Matrix
+(AccumulateTVStat) Done 
+(AccumulateTVStat) Minimum Divergence step 
+(AccumulateTVStat) Done 
+(AccumulateTVStat) ---------load statistics N [ 60 ] [ 32 ]
+(AccumulateTVStat) ---------load statistics F_X [ 60 ] [ 1600 ]
+	(TotalVariability) --------- start iteration 6 --------
+(AccumulateTVStat) Substract Mean from Speaker Statistics
+(AccumulateTVStat) compute V * Sigma-1 * V 
+(AccumulateTVStat) Compute and Inverse L Matrix for TotalVariability 
+(AccumulateTVStat) Update T Matrix
+(AccumulateTVStat) Done 
+(AccumulateTVStat) Minimum Divergence step 
+(AccumulateTVStat) Done 
+(AccumulateTVStat) ---------load statistics N [ 60 ] [ 32 ]
+(AccumulateTVStat) ---------load statistics F_X [ 60 ] [ 1600 ]
+	(TotalVariability) --------- start iteration 7 --------
+(AccumulateTVStat) Substract Mean from Speaker Statistics
+(AccumulateTVStat) compute V * Sigma-1 * V 
+(AccumulateTVStat) Compute and Inverse L Matrix for TotalVariability 
+(AccumulateTVStat) Update T Matrix
+(AccumulateTVStat) Done 
+(AccumulateTVStat) Minimum Divergence step 
+(AccumulateTVStat) Done 
+(AccumulateTVStat) ---------load statistics N [ 60 ] [ 32 ]
+(AccumulateTVStat) ---------load statistics F_X [ 60 ] [ 1600 ]
+	(TotalVariability) --------- start iteration 8 --------
+(AccumulateTVStat) Substract Mean from Speaker Statistics
+(AccumulateTVStat) compute V * Sigma-1 * V 
+(AccumulateTVStat) Compute and Inverse L Matrix for TotalVariability 
+(AccumulateTVStat) Update T Matrix
+(AccumulateTVStat) Done 
+(AccumulateTVStat) Minimum Divergence step 
+(AccumulateTVStat) Done 
+(AccumulateTVStat) ---------load statistics N [ 60 ] [ 32 ]
+(AccumulateTVStat) ---------load statistics F_X [ 60 ] [ 1600 ]
+	(TotalVariability) --------- start iteration 9 --------
+(AccumulateTVStat) Substract Mean from Speaker Statistics
+(AccumulateTVStat) compute V * Sigma-1 * V 
+(AccumulateTVStat) Compute and Inverse L Matrix for TotalVariability 
+(AccumulateTVStat) Update T Matrix
+(AccumulateTVStat) Done 
+(AccumulateTVStat) Minimum Divergence step 
+(AccumulateTVStat) Done 
+(AccumulateTVStat) ---------load statistics N [ 60 ] [ 32 ]
+(AccumulateTVStat) ---------load statistics F_X [ 60 ] [ 1600 ]
+	(TotalVariability) --------- save Matrix --------
+	(TotalVariability) --------- end of process --------
