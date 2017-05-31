@@ -64,13 +64,17 @@ fi
 
 
 if [ $INPUT_FORMAT = "SPH" ]; then
-
-
+	
 	if [ $FEATURE_TYPE = "SPro" ]; then
-
+		[ -f data/name.lst ] && rm data/name.lst 
+		touch data/name.lst
 		# Extract a list of files
 		for i in `cat data/data.lst`;do
-	                COMMAND_LINE="bin/sfbcep -m -k 0.97 -p19 -n 24 -r 22 -e -D -A -F SPHERE data/sph/$i.sph data/prm/$i.tmp.prm"
+		  utta_name=`echo $i | cut -d "/" -f5-6`
+		  utta_name=${utta_name%.*}
+		  utta_name=${utta_name/"/"/"_"}
+		  echo $utta_name >> data/name.lst 
+	                COMMAND_LINE="bin/sfbcep -m -k 0.97 -p19 -n 24 -r 22 -e -D -A -F WAVE  $i data/prm/$utta_name.tmp.prm"
 	 		echo $COMMAND_LINE
 	      		$COMMAND_LINE
 		done

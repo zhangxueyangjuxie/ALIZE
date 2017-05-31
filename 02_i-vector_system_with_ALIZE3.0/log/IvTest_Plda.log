@@ -1,0 +1,4 @@
+(PldaTest) found: 100 models and 100 test segments
+(PldaTest) Maximum number of sessions per speaker = 9
+(PldaTest) Compute Probabilistic Linear Discriminant Analysis native scoring
+Score computation done, writing the file in ASCII file

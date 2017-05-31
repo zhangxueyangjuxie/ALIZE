@@ -59,4 +59,3 @@
 	echo "Extract i-vectors"
 	bin/IvExtractor --config cfg/ivExtractor_fast.cfg &> log/IvExtractor.log
 	echo "		done, see log/IvExtractor.log for details"
-

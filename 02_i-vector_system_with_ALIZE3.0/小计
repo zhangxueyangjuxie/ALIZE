@@ -1,0 +1,2 @@
+1. 03_RUN_i-vector_background.sh中，第三步，对所有数据提取特征(ubm_dataset，adapt_dataset, test_dataset）,ubm_dataset用于平滑，数据集第一列是i-vector名字，可否多个数据集作为一个i-vector有待验证；
+2. Plda.ndx为何3列？

@@ -1,0 +1,1 @@
+03_RUN_i-vector_background.sh中，第三步，对所有数据提取特征(ubm_dataset，adapt_dataset, test_dataset）,ubm_dataset用于平滑
