@@ -64,8 +64,7 @@ fi
 
 
 if [ $INPUT_FORMAT = "SPH" ]; then
-
-
+	
 	if [ $FEATURE_TYPE = "SPro" ]; then
 		[ -f data/name.lst ] && rm data/name.lst 
 		touch data/name.lst

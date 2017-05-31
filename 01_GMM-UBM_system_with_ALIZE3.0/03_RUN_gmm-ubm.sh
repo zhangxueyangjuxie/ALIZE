@@ -39,49 +39,53 @@
 
 
 # 1. UBM training
-#	echo "Train Universal Background Model by EM algorithm"
-#	bin/TrainWorld --config cfg/TrainWorld.cfg &> log/TrainWorld.log
-#	echo "		done, see log/TrainWorld.log for details"
+	echo "Train Universal Background Model by EM algorithm"
+	bin/TrainWorld --config cfg/TrainWorld.cfg &> log/TrainWorld.log
+	echo "		done, see log/TrainWorld.log for details"
 
 # 2. Speaker GMM model adaptation
-#	echo "Train Speaker dependent GMMs"
-#	bin/TrainTarget --config cfg/TrainTarget.cfg &> log/TrainTarget.cfg
-#	echo "		done, see log/TrainTarget.cfg for details"
+	echo "Train Speaker dependent GMMs"
+	bin/TrainTarget --config cfg/TrainTarget.cfg &> log/TrainTarget.cfg
+	echo "		done, see log/TrainTarget.cfg for details"
 
 # 3. Speaker model comparison
-#	echo "Compute Likelihood"
-#	bin/ComputeTest --config cfg/ComputeTest_GMM.cfg &> log/ComputeTest.cfg
-#	echo "		done, see log/ComputeTest.cfg"
+	echo "Compute Likelihood"
+	bin/ComputeTest --config cfg/ComputeTest_GMM.cfg &> log/ComputeTest.cfg
+	echo "		done, see log/ComputeTest.cfg"
 
 # 4. Impostor GMM model adaptation for score normalization (t-norm)
 	echo "Train Impostor dependent GMMs for T-norm"
 	bin/TrainTarget --config cfg/TrainImp.cfg &> log/TrainImp.log
 	echo "		done, see log/ComputeTest_tnorm.log"
 
+
+
 # 5. Compute test for score normalization (z-norm)
-#	echo "Compute Z-norm scores"
-#	bin/ComputeTest --config cfg/ComputeTestZNorm.cfg &> log/ComputeTest_znorm.log
-#	echo "		done, see log/ComputeTest_znorm.log"
+	echo "Compute Z-norm scores"
+	bin/ComputeTest --config cfg/ComputeTestZNorm.cfg &> log/ComputeTest_znorm.log
+	echo "		done, see log/ComputeTest_znorm.log"
 
 # 6. Compute test for score normalization (t-norm)
-#	echo "Compute T-norm scores"
-#	bin/ComputeTest --config cfg/ComputeTestTNorm.cfg &> log/ComputeTest_tnorm.log
-#	echo "		done, see log/ComputeTest_tnorm.log"
+	echo "Compute T-norm scores"
+	bin/ComputeTest --config cfg/ComputeTestTNorm.cfg &> log/ComputeTest_tnorm.log
+	echo "		done, see log/ComputeTest_tnorm.log"
 
 # 7. Compute test for scores normalization (zt-norm)
-#	echo "Compute ZT-norm scores"
-#	bin/ComputeTest --config cfg/ComputeTestZTnorm.cfg &> log/ComputeTestztnorm.log
-#	echo "		done, see log/ComputeTest_ztnorm.log"
+	echo "Compute ZT-norm scores"
+	bin/ComputeTest --config cfg/ComputeTestZTnorm.cfg &> log/ComputeTestztnorm.log
+	echo "		done, see log/ComputeTest_ztnorm.log"
+
+
 
 # 8. Score Normalization: Z-norm
-#	echo "Apply Z-norm"
-#	bin/ComputeNorm --config cfg/ComputeNorm_znorm.cfg &> log/ComputeNorm_znorm.log
-#	echo "		done, see log/ComputeNorm_znorm.log"
+	echo "Apply Z-norm"
+	bin/ComputeNorm --config cfg/ComputeNorm_znorm.cfg &> log/ComputeNorm_znorm.log
+	echo "		done, see log/ComputeNorm_znorm.log"
 
 # 9. Score Normalization: T-norm
-#	echo "Apply T-norm"
-#	bin/ComputeNorm --config cfg/ComputeNorm_tnorm.cfg &> log/ComputeNorm_tnorm.log
-#	echo "		done, see log/ComputeNorm_tnorm.log"
+	echo "Apply T-norm"
+	bin/ComputeNorm --config cfg/ComputeNorm_tnorm.cfg &> log/ComputeNorm_tnorm.log
+	echo "		done, see log/ComputeNorm_tnorm.log"
 
 # 10. Score Normalization: ZT-norm
 #
@@ -89,9 +93,9 @@
 #	note that in this configuration, scores after t-norm are also provided as output
 #	in a symetric manner, TZ-norm return scores after Z-norm and TZ-norm
 #
-#	echo "Apply ZT-norm"
-#	bin/ComputeNorm --config cfg/ComputeNorm_ztnorm.cfg &> log/ComputeNorm_ztnorm.log
-#	echo "		done, see log/ComputeNorm_ztnorm.log"
+	echo "Apply ZT-norm"
+	bin/ComputeNorm --config cfg/ComputeNorm_ztnorm.cfg &> log/ComputeNorm_ztnorm.log
+	echo "		done, see log/ComputeNorm_ztnorm.log"
 
 	
 	

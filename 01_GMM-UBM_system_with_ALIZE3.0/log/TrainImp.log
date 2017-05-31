@@ -1,0 +1,1202 @@
+TrainTarget - Load world model [world]
+Use[world] for initializing EM
+Train model [imp_spk1]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1654] Selected frames[1654] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -64.3263
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk1]
+Train model [imp_spk2]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[2007] Selected frames[2007] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -64.5869
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk2]
+Train model [imp_spk3]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1780] Selected frames[1780] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -65.8187
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk3]
+Train model [imp_spk4]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1917] Selected frames[1917] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -64.6354
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk4]
+Train model [imp_spk5]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1498] Selected frames[1498] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -65.7155
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk5]
+Train model [imp_spk6]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1397] Selected frames[1397] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -64.0603
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk6]
+Train model [imp_spk7]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1427] Selected frames[1427] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -64.1697
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk7]
+Train model [imp_spk8]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1277] Selected frames[1277] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -64.4711
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk8]
+Train model [imp_spk9]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1279] Selected frames[1279] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -66.8778
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk9]
+Train model [imp_spk10]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1362] Selected frames[1362] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -66.1034
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk10]
+Train model [imp_spk11]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1503] Selected frames[1503] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -64.9639
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk11]
+Train model [imp_spk12]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1684] Selected frames[1684] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -66.5813
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk12]
+Train model [imp_spk13]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1547] Selected frames[1547] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -64.6911
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk13]
+Train model [imp_spk14]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1795] Selected frames[1795] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -64.5562
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk14]
+Train model [imp_spk15]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1340] Selected frames[1340] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -63.835
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk15]
+Train model [imp_spk16]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1592] Selected frames[1592] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -65.9662
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk16]
+Train model [imp_spk17]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1351] Selected frames[1351] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -64.4701
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk17]
+Train model [imp_spk18]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1797] Selected frames[1797] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -64.7151
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk18]
+Train model [imp_spk19]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1619] Selected frames[1619] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -65.1854
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk19]
+Train model [imp_spk20]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1350] Selected frames[1350] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -65.5049
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk20]
+Train model [imp_spk21]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1460] Selected frames[1460] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -65.5724
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk21]
+Train model [imp_spk22]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1824] Selected frames[1824] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -65.1703
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk22]
+Train model [imp_spk23]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1711] Selected frames[1711] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -65.3813
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk23]
+Train model [imp_spk24]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1812] Selected frames[1812] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -65.0285
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk24]
+Train model [imp_spk25]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1508] Selected frames[1508] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -64.7106
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk25]
+Train model [imp_spk26]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1856] Selected frames[1856] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -64.6735
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk26]
+Train model [imp_spk27]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1658] Selected frames[1658] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -64.6141
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk27]
+Train model [imp_spk28]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1287] Selected frames[1287] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -64.9843
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk28]
+Train model [imp_spk29]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1142] Selected frames[1142] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -65.8141
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk29]
+Train model [imp_spk30]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1200] Selected frames[1200] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -64.8154
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk30]
+Train model [imp_spk31]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1594] Selected frames[1594] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -65.4628
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk31]
+Train model [imp_spk32]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1340] Selected frames[1340] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -65.2769
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk32]
+Train model [imp_spk33]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1740] Selected frames[1740] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -65.8681
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk33]
+Train model [imp_spk34]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1346] Selected frames[1346] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -63.5559
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk34]
+Train model [imp_spk35]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1520] Selected frames[1520] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -64.2444
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk35]
+Train model [imp_spk36]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1317] Selected frames[1317] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -64.5004
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk36]
+Train model [imp_spk37]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1360] Selected frames[1360] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -65.9459
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk37]
+Train model [imp_spk38]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1471] Selected frames[1471] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -65.0145
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk38]
+Train model [imp_spk39]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1495] Selected frames[1495] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -64.9277
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk39]
+Train model [imp_spk40]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1323] Selected frames[1323] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -64.8815
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk40]
+Train model [imp_spk41]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1609] Selected frames[1609] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -66.731
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk41]
+Train model [imp_spk42]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1502] Selected frames[1502] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -65.9501
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk42]
+Train model [imp_spk43]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1651] Selected frames[1651] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -64.5663
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk43]
+Train model [imp_spk44]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1323] Selected frames[1323] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -66.7756
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk44]
+Train model [imp_spk45]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1306] Selected frames[1306] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -64.7944
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk45]
+Train model [imp_spk46]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1386] Selected frames[1386] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -64.7489
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk46]
+Train model [imp_spk47]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1316] Selected frames[1316] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -65.5085
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk47]
+Train model [imp_spk48]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1231] Selected frames[1231] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -65.3006
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk48]
+Train model [imp_spk49]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1484] Selected frames[1484] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -65.5006
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk49]
+Train model [imp_spk50]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1960] Selected frames[1960] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -65.6794
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk50]
+Train model [imp_spk51]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1500] Selected frames[1500] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -65.8922
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk51]
+Train model [imp_spk52]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1452] Selected frames[1452] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -65.8995
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk52]
+Train model [imp_spk53]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1449] Selected frames[1449] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -65.2119
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk53]
+Train model [imp_spk54]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1608] Selected frames[1608] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -66.8547
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk54]
+Train model [imp_spk55]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1289] Selected frames[1289] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -66.5634
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk55]
+Train model [imp_spk56]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1769] Selected frames[1769] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -65.3057
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk56]
+Train model [imp_spk57]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1455] Selected frames[1455] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -65.9654
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk57]
+Train model [imp_spk58]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1501] Selected frames[1501] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -66.0793
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk58]
+Train model [imp_spk59]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1307] Selected frames[1307] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -65.4552
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk59]
+Train model [imp_spk60]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1469] Selected frames[1469] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -65.685
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk60]
+Train model [imp_spk61]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1589] Selected frames[1589] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -64.207
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk61]
+Train model [imp_spk62]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1409] Selected frames[1409] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -65.241
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk62]
+Train model [imp_spk63]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1587] Selected frames[1587] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -66.0729
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk63]
+Train model [imp_spk64]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1661] Selected frames[1661] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -65.1328
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk64]
+Train model [imp_spk65]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1558] Selected frames[1558] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -65.2604
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk65]
+Train model [imp_spk66]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1631] Selected frames[1631] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -65.9523
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk66]
+Train model [imp_spk67]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1638] Selected frames[1638] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -67.2777
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk67]
+Train model [imp_spk68]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1968] Selected frames[1968] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -64.9394
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk68]
+Train model [imp_spk69]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1693] Selected frames[1693] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -64.5181
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk69]
+Train model [imp_spk70]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1778] Selected frames[1778] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -64.6672
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk70]
+Train model [imp_spk71]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1670] Selected frames[1670] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -65.6615
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk71]
+Train model [imp_spk72]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1425] Selected frames[1425] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -65.6165
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk72]
+Train model [imp_spk73]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1507] Selected frames[1507] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -65.5201
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk73]
+Train model [imp_spk74]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1389] Selected frames[1389] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -65.8687
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk74]
+Train model [imp_spk75]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1278] Selected frames[1278] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -64.7755
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk75]
+Train model [imp_spk76]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1496] Selected frames[1496] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -64.5486
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk76]
+Train model [imp_spk77]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1255] Selected frames[1255] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -65.3906
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk77]
+Train model [imp_spk78]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1991] Selected frames[1991] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -66.0476
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk78]
+Train model [imp_spk79]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1524] Selected frames[1524] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -65.1474
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk79]
+Train model [imp_spk80]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1598] Selected frames[1598] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -64.7023
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk80]
+Train model [imp_spk81]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1268] Selected frames[1268] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -64.8327
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk81]
+Train model [imp_spk82]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1572] Selected frames[1572] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -65.427
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk82]
+Train model [imp_spk83]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1439] Selected frames[1439] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -65.6083
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk83]
+Train model [imp_spk84]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1275] Selected frames[1275] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -64.6921
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk84]
+Train model [imp_spk85]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1406] Selected frames[1406] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -64.9423
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk85]
+Train model [imp_spk86]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1372] Selected frames[1372] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -64.8883
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk86]
+Train model [imp_spk87]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1563] Selected frames[1563] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -65.2614
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk87]
+Train model [imp_spk88]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1467] Selected frames[1467] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -64.5933
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk88]
+Train model [imp_spk89]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1723] Selected frames[1723] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -64.201
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk89]
+Train model [imp_spk90]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1824] Selected frames[1824] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -64.6789
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk90]
+Train model [imp_spk91]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1470] Selected frames[1470] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -64.071
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk91]
+Train model [imp_spk92]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1549] Selected frames[1549] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -65.8282
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk92]
+Train model [imp_spk93]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1406] Selected frames[1406] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -67.3328
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk93]
+Train model [imp_spk94]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1692] Selected frames[1692] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -64.0769
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk94]
+Train model [imp_spk95]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1355] Selected frames[1355] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -65.3974
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk95]
+Train model [imp_spk96]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1896] Selected frames[1896] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -64.7399
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk96]
+Train model [imp_spk97]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1360] Selected frames[1360] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -64.0033
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk97]
+Train model [imp_spk98]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1543] Selected frames[1543] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -63.6586
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk98]
+Train model [imp_spk99]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1383] Selected frames[1383] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -64.4874
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk99]
+Train model [imp_spk100]
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Bagged segments, Initial frames[1472] Selected frames[1472] % selected[100]
+ML (partial) estimate it[0] (take care, it corresponds to the previous it,0 means init likelihood) = -66.3497
+MAP Algo MAPOccDep
+Mean adaption, param[14]
+Nb training iterations[1]
+Normalise model off
+Save client model [imp_spk100]
