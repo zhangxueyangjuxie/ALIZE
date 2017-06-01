@@ -11,11 +11,20 @@ mkdir data/prm
 [ -d gmm ] && rm -r gmm
 mkdir gmm
 
+[ -d iv/lengthNorm ] && rm -r iv/lengthNorm
+mkdir iv/lengthNorm
+
+[ -d iv/raw ] && rm -r iv/raw
+mkdir iv/raw 
+
 [ -d log ] && rm -r log
 mkdir log
 
 [ -d  lst ] && rm -r  lst
 mkdir  lst
+
+[ -d  mat ] && rm -r  mat
+mkdir  mat
 
 [ -d  ndx ] && rm -r  ndx
 mkdir  ndx
