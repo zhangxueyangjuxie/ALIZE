@@ -1,0 +1,16 @@
+1. 运行get_all_utta_path.sh [数据路径]获得上级TIMIT目录中的所有语音路径data/data.lst
+2. 运行01_RUN_feature_extraction.sh特征提取，生成了data/name.lst语音名文件
+3. 运行split_dataset.sh对数据集进行分割，在lst目录下，530×10语音用来训练（train_ubm.lst），100×9语音用来说话人自适应（adapt.lst），100×1用来说话人测试（test.lst）
+4. 运行create_ndx.sh，生成.ndx文件，存放在ndx目录下
+5. 运行02a_RUN_spro_front-end.sh获得端点
+6. 运行03_RUN_i-vector_background.sh训练UBM,总变化空间矩阵，I-vector提取，I-vector提取是提取所有的语音特征，包括train_ubm.lst，adapt.lst和test.lst的I-vector，train_ubm.lst用于平滑
+7. 运行04_RUN_i-vector_processing.sh，采用各种方法进行评分
+（或者运行05_RUN_i-vector_step-by-step.sh分布计算Plda得分）
+7. 运行get_scores.sh（可修改文件路径和spk数目），获得res下该文件的impostor_scores和true_speaker_scores
+8. 将impostor_scores和true_speaker_scores放入DETware_v2.1中绘制DET曲线
+9. 运行clear_data.sh清理所有数据
+
+注意：
+1. bin/目录工具如果无法使用需要重新编译，注意-lm位置，spro与sphere一起编译，安装目录等问题。
+2. 03_RUN_i-vector_background.sh中，第三步，对所有数据提取特征(ubm_dataset，adapt_dataset, test_dataset）,ubm_dataset用于平滑，数据集第一列是i-vector名字，可否多个数据集作为一个i-vector有待验证；
+3. Plda.ndx为何3列？

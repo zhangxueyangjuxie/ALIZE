@@ -1,0 +1,19 @@
+1. 运行get_all_utta_path.sh [数据路径]获得上级TIMIT目录中的所有语音路径data/data.lst
+2. 运行01_RUN_feature_extraction.sh特征提取，生成了data/name.lst语音名文件
+3. 运行split_dataset.sh对数据集进行分割，在lst目录下，530×10语音用来训练（train_ubm.lst），100×9语音用来真实说话人自适应（adapt.lst），100×1用来真实说话人测试（test.lst），train_ubm.lst中选取前100人的语音，其中100×9用于冒人说话人自适应（imp_adapt.lst），100×1作为冒人说话人语音（imp_test.lst）
+4. 运行create_ndx.sh，生成.ndx文件，存放在ndx目录下
+5. 运行02a_RUN_spro_front-end.sh获得端点
+6. 运行03_RUN_gmm-ubm.sh自适应并且获得得分，
+	1) 生成GMM-UBM模型
+	2) 真实说话人自适应
+	3) 真实说话人自适应得分
+	4) 冒人说话人自适应
+	
+	5,6,7) znorm, tnorm, ztnorm得分
+
+	8,9,10) znorm, tnorm, ztnorm对真实得分进行补偿
+7. 运行get_scores.sh（可修改文件路径和spk数目），获得res下该文件的impostor_scores和true_speaker_scores
+8. 将impostor_scores和true_speaker_scores放入DETware_v2.1中绘制DET曲线
+9. 运行clear_data.sh清理所有数据
+
+注意：bin/目录工具如果无法使用需要重新编译，注意-lm位置，spro与sphere一起编译，安装目录等问题。
